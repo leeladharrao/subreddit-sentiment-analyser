@@ -1,48 +1,47 @@
 <!-- posts starts -->
-                                                                                                      title                                                                                                                   url        date  compound   SA_nltk SA_distilibert
-0                                                                                                  Tarkov'd                                   https://www.twitch.tv/summit1g/clip/PlayfulThoughtfulTrayPicoMause-yf3LRUtiFqeMR53C  2025/04/24    0.0000  NEGATIVE       POSITIVE
-1                                                                          Destiny and Dan watch AI gooning                                                        https://kick.com/destiny/clips/clip_01JSJK0ZKP0M5NPJHVX177MJNV  2025/04/24    0.0000  NEGATIVE       NEGATIVE
-2                       Quin dies in 36 seconds on hardcore expert run of Oblivion (right outside tutorial)                                        https://www.twitch.tv/quin69/clip/AbstemiousHappyCardCmonBruh-AW08fEkaxLz-xkD2  2025/04/24    0.0000  NEGATIVE       NEGATIVE
-3                                                                                  o7 Ankle during tricking                                      https://www.twitch.tv/birkolah/clip/HappyVainSrirachaStrawBeary-tn8nEiWYP5ntTOQ5  2025/04/24    0.0258  NEGATIVE       NEGATIVE
-4                                 When Grandpa says 'back in my day' and then drops a 4K clutch in Valorant    https://www.twitch.tv/matagisnipers/clip/ArtisticBusyCrowPlanking-eO4JEVLqfjoudBHB?filter=clips&range=7d&sort=time  2025/04/24    0.0000  NEGATIVE       NEGATIVE
-5                                         Frogan says she misspoke about the US military and didn't mean it                                                        https://kick.com/destiny/clips/clip_01JSMMD1RYKT4G13A0WXM8KB2D  2025/04/24    0.0000  NEGATIVE       NEGATIVE
-6                                                                  Showering in manure with Ruben and Hafja                                  https://www.twitch.tv/rubengks/clip/SlipperyAdventurousPanSeemsGood-RTpPNoYM_-0fkeJo  2025/04/24    0.0000  NEGATIVE       POSITIVE
-7                                                                    Streamer shows his view from his plane                           https://www.twitch.tv/iamdisrupt/clip/AggressiveDaintyGrasshopperAsianGlow-FERAGj_p-EIUNMH_  2025/04/24    0.0000  NEGATIVE       POSITIVE
-8             Chud Logic Trashes, Pirate Software's HeartBound and endorses New GockBound Game by Pvt Parts                                     https://youtube.com/clip/UgkxxmDlGELd_A-Eoc5uab4Y-xwBFLp59BpC?si=fC00d-Lg_GgmpaOK  2025/04/24    0.3400  POSITIVE       NEGATIVE
-9                                                         Cavemen Discover Porn Magazine for the First Time                               https://www.twitch.tv/arrav/clip/ThirstyInexpensiveVampireCharlieBitMe-XGBDO67lujtrpP-E  2025/04/24    0.0000  NEGATIVE       POSITIVE
-10                                                                     xQc discusses politics with a viewer                                                            https://kick.com/xqc/clips/clip_01JSK6AJCQWZYP386VP3Z7B18K  2025/04/24    0.0000  NEGATIVE       POSITIVE
-11                                                                              Directed by Robert B. Weide                                    https://www.twitch.tv/erobb221/clip/TubularAlluringWolfBibleThump-KzMar3pZN1BKq8M4  2025/04/24    0.0000  NEGATIVE       POSITIVE
-12                   Jynxzi accidently leaked his Twitch revenue on stream. Making over $450,000 this month        https://www.twitch.tv/jynxzi/clip/BlitheThankfulSangTF2John-sgX_XPWEXFftul8g?filter=clips&range=24hr&sort=time  2025/04/24   -0.3182  NEGATIVE       NEGATIVE
-13                                                                                   Brittt asks a question                                    https://www.twitch.tv/brittt/clip/PoliteCarefulMacaroniSquadGoals-Eu8TJ609fQbh1jOd  2025/04/24    0.0000  NEGATIVE       POSITIVE
-14                                                            i don't know you and i don't care to know you                                  https://www.twitch.tv/laeppa/clip/EncouragingSpicyStinkbugPartyTime-zn_-e1TVRT94QDWd  2025/04/24   -0.3875  NEGATIVE       NEGATIVE
-15                                                                  Grubby talks about his size preferences      https://www.twitch.tv/grubby/clip/AmusedGiftedJuiceStrawBeary-Ma9cdxRpTEk00MIq?filter=clips&range=24hr&sort=time  2025/04/24    0.0000  NEGATIVE       POSITIVE
-16  Reckfuls brother sold Byrons WoW account after his death, the buyer has now given the account to Barry.                                                                  https://www.twitch.tv/videos/2440468527?sr=a&t=5874s  2025/04/24   -0.0258  NEGATIVE       POSITIVE
-17                                             No one was supposed to know about Arrav in the Thailand Pool                                           https://www.twitch.tv/t10nat/clip/DarkAgileFriseeShadyLulu-5xRYGIgwZHRgBtg6  2025/04/24   -0.2960  NEGATIVE       NEGATIVE
-18                                                                          Korean Streamer Loves Her Candy                                       https://www.twitch.tv/world1104/clip/OriginalProudMarrowDuDudu-Cr2nGOACs8ldONwh  2025/04/24    0.5719  POSITIVE       POSITIVE
-19                                                                                      PULLING a Gengar EX                                  https://www.twitch.tv/tylerjberg/clip/TangentialGrotesqueBatBudStar-8yZTTwT0Jdm2OGUe  2025/04/24    0.0000  NEGATIVE       NEGATIVE
-20                                                                                 Grand Master Hikaru WHO?                                           https://www.twitch.tv/t10nat/clip/GoldenAffluentGoshawkYee-TnlsnaDumOUxBNdw  2025/04/24    0.4588  POSITIVE       NEGATIVE
-21                                          Mhyochi's boyfriend JayStreazy makes a racist comment at dinner                                                        https://kick.com/mhyochi/clips/clip_01JSK32CTWXKKDJJ3BFZZW8DFM  2025/04/24   -0.6124  NEGATIVE       NEGATIVE
-22                                                                                 this keeps messing us up  https://www.twitch.tv/sunny3803b/clip/ArbitraryBloodyFinchBudBlast-vnCrMkzjFgQMbJc8?filter=clips&range=all&sort=time  2025/04/24    0.0000  NEGATIVE       NEGATIVE
-23                                                                              Pikaboo diagnoses a chatter                                    https://www.twitch.tv/pikabooirl/clip/CharmingPrettyJackalDxAbomb-N0NEkCwGgLe9yi_0  2025/04/24    0.0000  NEGATIVE       POSITIVE
-24                                                                    Destiny teaches Dan about car mileage                                                        https://kick.com/destiny/clips/clip_01JSJMDVHY2XWVKSSCKTJNB1FY  2025/04/24    0.0000  NEGATIVE       POSITIVE
-25                                                                                 Lirik serenades his chat                                       https://www.twitch.tv/lirik/clip/ThankfulMildRadishKeyboardCat-whtN9pX8-1ZUq09h  2025/04/24    0.0000  NEGATIVE       POSITIVE
-26                                                                    is this what DaBaby be doing nowadays                                   https://www.twitch.tv/pleasesaydababy/clip/FancyTenderCoyoteKlappa-6NcwAHUREtxmOIw-  2025/04/24    0.0000  NEGATIVE       POSITIVE
-27                                                                                              Horror game                                    https://www.twitch.tv/loltyler1/clip/CrunchySuperAnacondaCopyThis-mSbZRg1_IXU4KYv7  2025/04/24   -0.5719  NEGATIVE       NEGATIVE
-28                                                                               tyler1 plays a horror game                            https://www.twitch.tv/loltyler1/clip/BenevolentEmpathicHyenaLeeroyJenkins-yMvchDJiVLcGj2Ek  2025/04/24   -0.4019  NEGATIVE       POSITIVE
-29  Ethan Klein calls out Hasan for his antisemitism for using a Japanese Manji sword from the anime Bleach                                     https://youtube.com/clip/UgkxMelId_SAG0-D2-df9KVXZllIjLJ8jfUf?si=s9Ttn0eFbs7CC-WZ  2025/04/24    0.0000  NEGATIVE       NEGATIVE
-30                                                        Streamer made a reference to erobb221 in Oblivion                                        https://www.twitch.tv/erobb221/clip/BigTubularBaguetteArgieB8-LXgz2nEn_gpKXvh1  2025/04/24    0.0000  NEGATIVE       NEGATIVE
+                                                                            title                                                                                                          url        date  compound   SA_nltk SA_distilibert
+0                                            Erobb has officially hit rock bottom                               https://www.twitch.tv/erobb221/clip/AggressiveYummyKaleDuDudu-qFveVSjE6Ar04YmZ  2025/04/25    0.0000  NEGATIVE       NEGATIVE
+1                                                                 Saving Lives o7                                      https://clips.twitch.tv/VenomousOutstandingAxePoooound-leNJh5wtaR9Yng_s  2025/04/25    0.0000  NEGATIVE       POSITIVE
+2                                                                  Free sandbike!                  https://www.twitch.tv/fistofthewalrus/clip/CorrectArtisticPistachioOSsloth-jQWa-A-gKPJcKYfc  2025/04/25    0.5562  POSITIVE       POSITIVE
+3                                         Quin has a drinking contest with an NPC                           https://www.twitch.tv/quin69/clip/BloodyRespectfulAppleYouDontSay-o1pyJ6Fa-x-YU61g  2025/04/25    0.0000  NEGATIVE       NEGATIVE
+4                                                          Bobby does not approve                                           https://clips.twitch.tv/GiftedDullRadicchioOpieOP-UTyXaPmTd209JPtK  2025/04/25    0.0000  NEGATIVE       NEGATIVE
+5                                                    xQc produces Christmas Music                                                   https://kick.com/xqc/clips/clip_01JSNRSNG7GH73ERM29G5G8XHD  2025/04/25    0.0000  NEGATIVE       POSITIVE
+6                                                              Strippin jinxes it                        https://www.twitch.tv/strippin/clip/AmazingAmorphousAsparagusTakeNRG-wfPMZDzZE1dI6EPP  2025/04/25    0.0000  NEGATIVE       POSITIVE
+7                                               all big streamers suck these days                    https://www.twitch.tv/dorozea/clip/AntediluvianTubularDiamondKevinTurtle-h9Uz8xo-cSsHbpQN  2025/04/25   -0.4404  NEGATIVE       NEGATIVE
+8            Industry Focused AMA with Tipsout, CEO of OTK, 10AM PST, Sunday 4/27  https://www.reddit.com/r/LivestreamFail/comments/1k7usqp/industry_focused_ama_with_tipsout_ceo_of_otk_10am/  2025/04/25    0.3818  POSITIVE       POSITIVE
+9                                                 Spice Man testing his Dune bike                       https://www.twitch.tv/lirik/clip/AntediluvianPluckyCarrotRiPepperonis-EwETgjw549heyu8A  2025/04/25    0.0000  NEGATIVE       POSITIVE
+10                                                            NL gets Anaphylaxis                       https://www.twitch.tv/northernlion/clip/SparklyCredulousOtterRickroll-TQS4CqbzQk_RciTc  2025/04/25    0.0000  NEGATIVE       NEGATIVE
+11                                                                  speedrun any%                          https://www.twitch.tv/onax_art/clip/LitigiousBeautifulGnatRickroll-1L_nfSyA8VUZIh4W  2025/04/25    0.0000  NEGATIVE       NEGATIVE
+12                                                          American plays soccer                               https://www.twitch.tv/squeex/clip/RichDignifiedWrenBloodTrail-dl3iIF-KPpXnH06j  2025/04/25    0.2500  POSITIVE       POSITIVE
+13                                Spice Man found the best place to build a house                                https://www.twitch.tv/lirik/clip/ToughColdFriseeCoolStoryBob-jvFLpRHmKkPfP7NF  2025/04/25    0.6369  POSITIVE       NEGATIVE
+14                        streamer found the perfect setup that her viewers liked                          https://www.twitch.tv/anjooneena/clip/DarkLuckySeahorseGingerPower-CmRSn0p9R8oIBunO  2025/04/25    0.7579  POSITIVE       POSITIVE
+15                                             How Video Games Took Over Politics     https://www.theatlantic.com/culture/archive/2025/04/how-video-games-took-over-politics-asmongold/682592/  2025/04/25    0.0000  NEGATIVE       POSITIVE
+16         Kanye West was banned from Twitch just 7 minutes into his first stream                                                       https://twitter.com/Dexerto/status/1915747743512883522  2025/04/25   -0.4588  NEGATIVE       NEGATIVE
+17  PRSEK calls out xqc for being bad faith and self-projecting after elon debate                            https://www.twitch.tv/prsek/clip/MoldyPricklySandwichGingerPower-D08nM6Jo9-sF54vV  2025/04/25   -0.1779  NEGATIVE       NEGATIVE
+18                                                           Average British Male                        https://www.twitch.tv/defac3d/clip/ElatedAssiduousMosquitoRaccAttack-p_k8xHD8ySRaWi9x  2025/04/25    0.0000  NEGATIVE       NEGATIVE
+19                         Destiny reacts to aiko talking about the tesla attacks                                               https://kick.com/destiny/clips/clip_01JSPC90RWMVAAWNC8BWTDWZPY  2025/04/25   -0.4404  NEGATIVE       POSITIVE
+20                                               Typical Aussies at IEM Melbourne                             https://www.twitch.tv/eslcs/clip/EphemeralCoyPancakeSuperVinlin-nMnUzM0_x4Txcvdt  2025/04/25    0.0000  NEGATIVE       NEGATIVE
+21                        Loses at his own game. Lol. The cards didn't pan out...                  https://www.twitch.tv/final_boss_editing/clip/TubularYummyGiraffeAsianGlow-SWj6oOscZDAV0kQ1  2025/04/25    0.1280  NEGATIVE       NEGATIVE
+22                                             Artosis has a tricky unban request                      https://www.twitch.tv/artosis/clip/AssiduousSincereOrangeLeeroyJenkins-jLkObnlQfY9Ve0i2  2025/04/25   -0.1531  NEGATIVE       NEGATIVE
+23                                                                xQc - aintnoway                                 https://www.twitch.tv/xqc/clip/JollyEnchantingHerdPicoMause-9wu1OUC_FizvIsGM  2025/04/25    0.0000  NEGATIVE       NEGATIVE
+24         Destiny says he wanted to fight Nick Fuentes in a creator boxing match                                               https://kick.com/destiny/clips/clip_01JSJXEENHK740861QHG818C83  2025/04/25   -0.3818  NEGATIVE       NEGATIVE
+25                      Destiny thinks that Amouranth is worth more than Pokimane                                               https://kick.com/destiny/clips/clip_01JSJYPANTJX5EDM3FM1VABBAE  2025/04/25    0.2263  POSITIVE       POSITIVE
+26                        Esfand's NFL Draft Night Extravaganza draws a big crowd                            https://www.twitch.tv/esfandtv/clip/AcceptableDarkWaterJKanStyle-t-Io1P3CfjBmEts3  2025/04/25    0.0000  NEGATIVE       POSITIVE
+27                                              Pobelter has a sudden realization                             https://www.twitch.tv/pobelter/clip/CourteousSmoggyWitchTakeNRG-tYXGM9YizSwhXtDJ  2025/04/25    0.0000  NEGATIVE       POSITIVE
+28                                                          Tyler1 throws a smoke                  https://www.twitch.tv/loltyler1/clip/ObliviousPerfectRutabagaDancingBanana-ORyRZ1teTfnU6K6o  2025/04/25    0.0000  NEGATIVE       POSITIVE
+29                                                                      Oblivion.                                   https://www.twitch.tv/spaceboy/clip/NimbleBoldThymePJSalt-E-vwnb3S_ggqQH4c  2025/04/25    0.0000  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    28
-POSITIVE     3
+NEGATIVE    24
+POSITIVE     6
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
 NEGATIVE    16
-POSITIVE    15
+POSITIVE    14
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
