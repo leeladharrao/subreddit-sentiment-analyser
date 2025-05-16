@@ -1,51 +1,45 @@
 <!-- posts starts -->
-                                                                                                              title                                                                                                               url        date  compound   SA_nltk SA_distilibert
-0                                                                            Dabo gets gun pointed at him on stream                               https://www.twitch.tv/youngdabo/clip/AmusedBoringTigerRiPepperonis-I6JhohGwclotcp5v  2025/05/14   -0.3400  NEGATIVE       NEGATIVE
-1                                                                                      Aspen | Chat, what’s an EBT?                                        https://www.twitch.tv/aspen/clip/SolidSassyCourgetteKeepo-U7sc45qeAyTqOVG5  2025/05/14    0.0000  NEGATIVE       NEGATIVE
-2                                                                                         Sodapoppin gets a new pet                                 https://www.twitch.tv/sodapoppin/clip/FairOptimisticGarlicBCouch-jBP9HdWSRY4XuVgw  2025/05/14    0.0000  NEGATIVE       POSITIVE
-3                                                                                    Purple sunset over Carcassonne                                                https://clips.twitch.tv/PluckySoftNarwhalRuleFive-_9TACAx5FpxBZsAv  2025/05/14    0.0000  NEGATIVE       POSITIVE
-4                                                                                                        De Finale!                                      https://www.twitch.tv/arrav/clip/CoweringRoundCoyoteBudStar-7HGS59uBQ9qvg_-2  2025/05/14    0.0000  NEGATIVE       POSITIVE
-5                                                                                         Arrav - Ode to Marianne!!                                     https://www.twitch.tv/arrav/clip/CalmColdbloodedBeaverSSSsss-l1j11fsVcNSAQZjG  2025/05/14    0.0000  NEGATIVE       POSITIVE
-6                                                                       ExtraEmily dances for the K-pop group NMIXX                                            https://clips.twitch.tv/EnjoyableBlitheKeyboardWTRuck-2q6C_WLwo3z0Sb6_  2025/05/14    0.0000  NEGATIVE       POSITIVE
-7                                                                      ForsteGir - Norwegian Streamer falls on bike                                   https://www.twitch.tv/forstegir/clip/ZanyFrozenHamPeoplesChamp-JgO8uzHMxXz6XQ-b  2025/05/14    0.0000  NEGATIVE       NEGATIVE
-8                                                                                 NL shows his Awkwafina impression                            https://www.twitch.tv/northernlion/clip/PlausibleCharmingBatBrokeBack-GNe476qtH9G5tr6o  2025/05/14    0.2263  POSITIVE       NEGATIVE
-9                                                                                       ExtraEmily flew like a bird                                https://www.twitch.tv/extraemily/clip/EmpathicGrotesqueFrogOpieOP-ba9I3Y5dIWx9FtRV  2025/05/14    0.3612  POSITIVE       POSITIVE
-10                                                            Maybe this flag means something different in Japanese                                      https://www.twitch.tv/hazunats/clip/LuckyAmericanNewtKlappa-LiQnFc7n2KvqIzvT  2025/05/14    0.0000  NEGATIVE       POSITIVE
-11                                                                                               Quin69 is so manly                                    https://www.twitch.tv/quin69/clip/FlaccidFrigidClipzOMGScoots-NPv19H0VaNCnnqZS  2025/05/14    0.0000  NEGATIVE       POSITIVE
-12                                                                                                Quin chugs a beer                                  https://www.twitch.tv/quin69/clip/AmorphousMushySparrowPlanking-RigFje89sOrUJ_Im  2025/05/14    0.0000  NEGATIVE       NEGATIVE
-13                                                         Quin takes the bear grylls challenge to chug his own pee                                         https://www.twitch.tv/quin69/clip/BovineCalmTigerDBstyle-wn1o5HgNoTfQ9L49  2025/05/14    0.0772  NEGATIVE       NEGATIVE
-14                                            Korean marathon cyclist has a near death situation with Mother Nature                           https://www.twitch.tv/jinnytty/clip/DreamyPluckyMonitorAMPEnergyCherry-5FrPLTdoYw9jRZL5  2025/05/14   -0.5994  NEGATIVE       NEGATIVE
-15                                                                                    This is the next Schumacher 🤣                              https://www.twitch.tv/kingsobe/clip/SolidRenownedCrabsDancingBanana-EyXnOa2675_TRD7u  2025/05/14    0.0000  NEGATIVE       POSITIVE
-16                                                                                       Jinnytty fell off her bike                                     https://www.twitch.tv/jinnytty/clip/LitigiousMildSageArgieB8-OrUHmkujRiKeJ1Zp  2025/05/14    0.0000  NEGATIVE       NEGATIVE
-17                                                    Hera (aoe2 pro) vs Normal players "Pro Player Micro" Subathon                                  https://www.twitch.tv/hera/clip/BashfulMildPepperoniHassaanChop-5uoFruO80lsi3fFL  2025/05/14    0.0000  NEGATIVE       NEGATIVE
-18                                                                                        irissiri129 - shelf bobby                            https://www.twitch.tv/irissiri129/clip/UnusualRamshackleWombatOneHand-HPsuq6eCoizoV5b6  2025/05/14    0.0000  NEGATIVE       NEGATIVE
-19                                                                                  This SpiderJump Scared Everyone                             https://www.twitch.tv/h1ghp3r_/clip/LachrymoseBlushingCakeCeilingCat-N4FryhB0XcP77NZ5  2025/05/14   -0.4404  NEGATIVE       NEGATIVE
-20                                                           MetalGunner94 - So the grenades don't go very far chat                               https://www.twitch.tv/metalgunner94/clip/DullAverageSwordOMGScoots-YdUBxqSXh4czA6hk  2025/05/14    0.0000  NEGATIVE       NEGATIVE
-21                                                                Denims refunds her GoFundMe for suing Ethan Klein                                                                 https://x.com/DenimsTV/status/1922542347348537669  2025/05/14   -0.2732  NEGATIVE       NEGATIVE
-22                                                                            Cultist tries to bribe Officer FanFan                               https://www.twitch.tv/fanfan/clip/CrackyLittleHorseradishBCWarrior-IUbTU8_AK_bX7Wn-  2025/05/14   -0.2023  NEGATIVE       NEGATIVE
-23                                                                                            streamer becomes Aris                                          https://www.twitch.tv/aitchiv/clip/MistyModernSwanKippa-x8j27WlWcBOoQt1T  2025/05/14    0.0000  NEGATIVE       NEGATIVE
-24                                                                     It was supposed to be a scary game FanFan?!?                    https://www.twitch.tv/quarterjade/clip/ComfortableStupidClintmullinsPartyTime-GKQUCKoBENwPCRMZ  2025/05/14   -0.5930  NEGATIVE       NEGATIVE
-25                                                                              The sims with crowd control is wild                                   https://www.twitch.tv/failchildjo/clip/BlueLongLaptopPastaThat-qSP-SmLE7iromdEO  2025/05/14    0.0000  NEGATIVE       POSITIVE
-26                                                                PSA: Twitch Clips Thumbnails are Broken on Reddit        https://www.reddit.com/r/LivestreamFail/comments/1km6ybw/psa_twitch_clips_thumbnails_are_broken_on_reddit/  2025/05/14   -0.4767  NEGATIVE       NEGATIVE
-27                                                                                      PULLING a Blaziken FULL ART                               https://www.twitch.tv/tylerjberg/clip/SassyHorribleGoatMoreCowbell-JwpaihNsx9hyq0mS  2025/05/14    0.0000  NEGATIVE       NEGATIVE
-28                                                                                     What is Gappy even about bro                                     https://www.twitch.tv/gappyv/clip/DirtyDirtyEchidnaCorgiDerp-3Kk4qdV-6o9rVCfc  2025/05/14    0.0000  NEGATIVE       NEGATIVE
-29  Faze Kaysan destroys Lacy's setup with a baseball bat and a paintball gun after he ripped his 10k$ Pokemon card                                   https://www.twitch.tv/kaysan/clip/AdorableSassyHabaneroSoBayed-c4bQmtYOUqbreoZ9  2025/05/14   -0.7184  NEGATIVE       NEGATIVE
-30                                                                             People really miss the old mizkif...  https://www.twitch.tv/elratotv/clip/EnticingDeadNostrilBatChest-CYqwxiVnOKijiUc0?filter=clips&range=7d&sort=time  2025/05/14   -0.2247  NEGATIVE       NEGATIVE
-31                                                                                               In a public lobby.                                     https://www.twitch.tv/gappyv/clip/SavageBombasticHerdDogFace-TK85pNNoQJ44wzQV  2025/05/14    0.0258  NEGATIVE       NEGATIVE
-32                                                                                Senate Dems told to get on Twitch                                      https://www.axios.com/2025/05/14/senate-democrats-booker-twitch-snapchat-aoc  2025/05/14    0.0000  NEGATIVE       NEGATIVE
-33             Streamer and rapper DDG accused of physical abuse by ex girlfriend Halle Bailey in restraining order                                                                      https://x.com/TMZ/status/1922435966632915310  2025/05/14   -0.7506  NEGATIVE       NEGATIVE
+                                                                         title                                                                                                url        date  compound   SA_nltk SA_distilibert
+0                                       Agent00 has a good game against Summit                       https://www.twitch.tv/agent00/clip/CuriousAliveFlamingoDerp-3-8dhm3nv56UtuGB  2025/05/15    0.4404  POSITIVE       POSITIVE
+1                                          Beat the Dragon Vangard ft. Mira004                      https://www.twitch.tv/arrav/clip/EnergeticSassyUdonChefFrank-Ul07VJ--cSWdBFVW  2025/05/15    0.0000  NEGATIVE       POSITIVE
+2                                                   Brittt sick skating skills                       https://www.twitch.tv/brittt/clip/ElatedPowerfulFlyEagleEye-RKK4WN3kEF73Iuxa  2025/05/15   -0.5106  NEGATIVE       NEGATIVE
+3                                         Destiny weighs in on the middle east                                     https://kick.com/destiny/clips/clip_01JV9WPK5VW7BE9XV3BMJF8AE0  2025/05/15    0.0000  NEGATIVE       POSITIVE
+4                                           Jinny successfully dodges a puddle                              https://clips.twitch.tv/BlushingZanyPeafowlThunBeast-WPGhzJTL4etZtS3m  2025/05/15    0.4939  POSITIVE       POSITIVE
+5   xQc's Girlfriend's Face Perfectly Depicts His Minecraft Performance Lately                                         https://kick.com/xqc/clips/clip_01JVADRSFB09Z8GSHFXPV6YJ7S  2025/05/15    0.6369  POSITIVE       POSITIVE
+6                                                            Klit Klat Collab?               https://www.twitch.tv/hello_kiko/clip/SuspiciousPreciousAdminOpieOP-aWCrEJJdo1A1Yrkj  2025/05/15    0.0000  NEGATIVE       NEGATIVE
+7                                                                    paper man                https://www.twitch.tv/jinnytty/clip/PreciousCoweringGiraffeDogFace-vEUKSKi8uO9kYmyg  2025/05/15    0.0000  NEGATIVE       NEGATIVE
+8                                                               forsen - BOOBA             https://www.twitch.tv/forsen/clip/ObservantAbstemiousOysterCclamChamp-Yx_WsvHZ7scSa3V8  2025/05/15    0.0000  NEGATIVE       NEGATIVE
+9                                                                  Perspective         https://www.twitch.tv/hello_kiko/clip/ResoluteFilthyChimpanzeeKeyboardCat-sXPCBHokIJAHPd_a  2025/05/15    0.0000  NEGATIVE       POSITIVE
+10                                 irissiri129 - Fidget spinner + BOBBYYYYYYYY                 https://www.twitch.tv/irissiri129/clip/CrispyEmpathicSangTheThing-locw8RWKJJ-hQotF  2025/05/15    0.0000  NEGATIVE       NEGATIVE
+11                     When everyone grabs the hourglass chaos starts in REPO!           https://www.twitch.tv/failchildjo/clip/SavoryEnjoyableGrasshopperDuDudu-Uw8D44ghlU_bsz-c  2025/05/15   -0.6114  NEGATIVE       NEGATIVE
+12                                                      Britney Spears is back                           https://clips.twitch.tv/FlirtyArborealScallionSeemsGood-xPeydaOml9Sf3Dzo  2025/05/15    0.0000  NEGATIVE       POSITIVE
+13                                                           Who's the killer?                      https://www.twitch.tv/valkyrae/clip/HelplessHonestPlumTTours-zKGeOH4n2DbGTU9-  2025/05/15   -0.6486  NEGATIVE       NEGATIVE
+14                                                       Fanfan's World Record                     https://www.twitch.tv/fanfan/clip/LightSpineyKiwiAMPTropPunch-5j0HrPlAxB4cddaR  2025/05/15    0.0000  NEGATIVE       POSITIVE
+15                           Rob baits his wife to crash out by buying a donut                     https://www.twitch.tv/robcdee/clip/LongBashfulShingleDansGame-LSSJc_LLkH7oY4vm  2025/05/15   -0.7430  NEGATIVE       NEGATIVE
+16                                                           Fanfan speaks out               https://www.twitch.tv/pikabooirl/clip/BlushingElegantDaikonTebowing-2FnWb4T8khsXbFpd  2025/05/15    0.0000  NEGATIVE       POSITIVE
+17                                                           did you see that?  https://www.twitch.tv/themayor_mccheese/clip/HelplessAssiduousLasagnaKevinTurtle-uR2qzIgnFgmGibHs  2025/05/15    0.0000  NEGATIVE       POSITIVE
+18                  Rob gets his donuts after waiting in line for over 7 hours                           https://www.twitch.tv/robcdee/clip/ZanyMoistPoxGOWSkull-fOIypLbOMBnRI7Ec  2025/05/15   -0.5574  NEGATIVE       NEGATIVE
+19                                                   Practicing Being Grateful              https://www.twitch.tv/crazyjapanese/clip/SneakySourDotterelJKanStyle-I751XfD2YEO3KilP  2025/05/15    0.4588  POSITIVE       POSITIVE
+20                                           NL has always had high standards.                  https://youtube.com/clip/UgkxihOLCOiY61qJvi-GL-wRZvfab18q1LFL?si=ElNLNfvuZ9AxoONs  2025/05/15    0.0000  NEGATIVE       POSITIVE
+21                                                         Temu Dr. Disrespect                    https://www.twitch.tv/tiinglee/clip/RoughBeautifulHumanTF2John--Cd8kmDHm3l6K-Z-  2025/05/15   -0.4215  NEGATIVE       NEGATIVE
+22                                   GappyV trys to make 1-1 scale of himself.               https://www.twitch.tv/gappyv/clip/BenevolentPlacidButterflyFrankerZ-x3Hui845UC3hYOLj  2025/05/15    0.0000  NEGATIVE       NEGATIVE
+23                                     Shroud attempts to apprehend a suspect.                  https://www.twitch.tv/shroud/clip/SoftSpookyBasenjiLeeroyJenkins-U3Z8iCEyS8gDKSgu  2025/05/15   -0.2960  NEGATIVE       NEGATIVE
+24                                                    Sweet Anita's experiment                        https://www.twitch.tv/sweet_anita/clip/HotCuteWebFUNgineer-hEj3TrX2SFn-IsKT  2025/05/15    0.4588  POSITIVE       POSITIVE
+25                                             Rob lines up for Randy's Donuts               https://www.twitch.tv/robcdee/clip/WanderingColdbloodedBeeJKanStyle-qzKOXScTpmoA8-4Q  2025/05/15   -0.5574  NEGATIVE       POSITIVE
+26                               thehashaq - Hassan loves playing with himself                    https://www.twitch.tv/thehashaq/clip/SucculentProudBunnyPJSalt-COIVEWj_67Oc6UaQ  2025/05/15    0.6705  POSITIVE       POSITIVE
+27                          Timeline of Hasan detainment by CBP under question                                  https://www.youtube.com/clip/UgkxWhQs8bHZ8xsvVCYqD0ZqvtHouiPznQlV  2025/05/15    0.0000  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    32
-POSITIVE     2
+NEGATIVE    22
+POSITIVE     6
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    24
-POSITIVE    10
+POSITIVE    15
+NEGATIVE    13
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
