@@ -1,50 +1,53 @@
 <!-- posts starts -->
-                                                                                      title                                                                                           url        date  compound   SA_nltk SA_distilibert
-0                                                                                 he got it                     https://www.twitch.tv/birkolah/clip/LightHyperEggHeyGuys-EVBRCwyDVTso-uBF  2025/07/25    0.0000  NEGATIVE       POSITIVE
-1                            Caseoh has his voice mimicked by a creature in the horror game           https://www.twitch.tv/caseoh_/clip/ApatheticPeacefulHerringVoteYea-DZf78g733FWkaR-h  2025/07/25   -0.5719  NEGATIVE       NEGATIVE
-2                                                      FREDDIE GETS ARRESTED FOR ASSAULT 😱👊                                                               https://v.redd.it/v6cdnt81q3ff1  2025/07/25   -0.8543  NEGATIVE       NEGATIVE
-3                                    Marvel Rivals Black Panther VA reads the OGRE Dialogue            https://www.twitch.tv/extraemily/clip/AmazonianPlumpCookieSaltBae-RmB2IvKkYLAZAfrx  2025/07/25    0.4215  POSITIVE       NEGATIVE
-4                                                                    Vaush' rizzing a minor             https://youtube.com/clip/Ugkxq1srqiVMxPvYbaOf75XpFyxROeCxPLQz?si=KEVRXzYD3Gv0Lfaq  2025/07/25    0.0000  NEGATIVE       NEGATIVE
-5                                                                    Emiru exposes 'couple'                                                               https://v.redd.it/ngvragbea3ff1  2025/07/25   -0.1280  NEGATIVE       POSITIVE
-6                                                                                STACKSWOPO       https://www.twitch.tv/prettygirlindia/clip/WittyTolerantPhoneShadyLulu-fuXoq39K5W_9eImA  2025/07/25    0.0000  NEGATIVE       NEGATIVE
-7                                                Forsen finally found a game worthy of GOTY              https://www.twitch.tv/forsen/clip/PoorObliqueSquirrelRaccAttack-nwGP_TE3EV4XF9Ab  2025/07/25    0.4404  POSITIVE       POSITIVE
-8                                                       Forsen having fun playing this game                  https://www.twitch.tv/forsen/clip/ArtisticSillyWombatLitFam-3KoPg__842-xI8Ww  2025/07/25    0.6249  POSITIVE       POSITIVE
-9                                 PirateSoftware responds to Khronos' use of an alt account                                                               https://v.redd.it/l1tk0og702ff1  2025/07/25    0.0000  NEGATIVE       NEGATIVE
-10                                                           Northernlion Creates a new Dle        https://www.twitch.tv/northernlion/clip/TardyHungryCormorantBCWarrior-E1aoxAR9Xb3f1V9j  2025/07/25    0.2732  POSITIVE       POSITIVE
-11        A news outlet misattributed CDawgVA's charity tweet to a controversial fundraiser            https://www.twitch.tv/cdawg/clip/SpeedySuspiciousTapirDancingBaby-cUKi-pedsGeQIrJK  2025/07/25    0.2500  POSITIVE       NEGATIVE
-12                Most terrifying streamer I've ever come across in the middle of the night                                                               https://v.redd.it/awndmzj432ff1  2025/07/25   -0.6115  NEGATIVE       NEGATIVE
-13                                                                    View of Liechtenstein                            https://clips.twitch.tv/KawaiiOddKeyboardOSkomodo-YlGaefc_sG3930fZ  2025/07/25    0.0000  NEGATIVE       POSITIVE
-14                                                                Northernlion has a theory  https://www.twitch.tv/northernlion/clip/TsundereTriangularButterHassaanChop-8DHddBxZ8UmY7oDe  2025/07/25    0.0000  NEGATIVE       POSITIVE
-15                                                               Pirate Software Apologizes       https://www.twitch.tv/piratesoftware/clip/VenomousToughHeronTwitchRaid-nO4_GFB-86vl4AMK  2025/07/25    0.3612  POSITIVE       NEGATIVE
-16                                                  Former League Pro can't take it anymore                                                               https://v.redd.it/yv5bae6jd1ff1  2025/07/25    0.0000  NEGATIVE       NEGATIVE
-17                           Moxie gets assaulted after filming a woman without her consent                                  https://kick.com/moxie/clips/clip_01K0ZVKT66Z0MAYVKPZ1JPMNY2  2025/07/25   -0.6207  NEGATIVE       NEGATIVE
-18                                                       Velcuz shows his setup from a boat                    https://www.twitch.tv/velcuz/clip/MistyPoisedPlumageLitty-slLzZzcQvi0hrYos  2025/07/25    0.0000  NEGATIVE       NEGATIVE
-19                                                             GTA6 NPC Spotted in the Wild                    https://www.twitch.tv/robcdee/clip/BoldAnimatedMagpieWOOP-gsYx-LAHYF7lXrd7  2025/07/25    0.0000  NEGATIVE       NEGATIVE
-20                                                              Dan tries the Scrandle meta            https://www.twitch.tv/dangheesling/clip/BenevolentJollyPizzaFloof-fIFRA4YzNhyNr5cK  2025/07/25    0.0000  NEGATIVE       NEGATIVE
-21                               Streamer finds american cultural representation in Wuchang     https://www.twitch.tv/forsenspectate/clip/InspiringSpineyJalapenoWutFace-hvXRZRIL-yjrlK_D  2025/07/25    0.0000  NEGATIVE       POSITIVE
-22                                   Danish Twitch streamer playing CS2 from Tour de France    https://www.twitch.tv/jaxstyle/clip/HorribleObservantRaccoonChocolateRain-kEMkgRVspKcv5iav  2025/07/25    0.2023  POSITIVE       NEGATIVE
-23                                                  Adin Ross says he stands with Palestine                               https://kick.com/adinross/clips/clip_01K0ZV0PEE9FDXCV6CH52EN671  2025/07/25    0.0000  NEGATIVE       POSITIVE
-24                                                  RON DEFEATS MALENIA!!! after 280 deaths                                                               https://v.redd.it/5xjfudq5ozef1  2025/07/25   -0.6006  NEGATIVE       NEGATIVE
-25                                                             irissiri129 - smol fit check           https://www.twitch.tv/irissiri129/clip/CredulousBusyCodFeelsBadMan-UerDVEmsolD9YGBP  2025/07/25    0.3612  POSITIVE       NEGATIVE
-26                                                                          There’s no way…                                                               https://v.redd.it/btlcxjft7yef1  2025/07/25   -0.2960  NEGATIVE       NEGATIVE
-27                                       Streamer deepthroats microphone as if it were food            https://www.twitch.tv/cyanfen/clip/CrypticDifficultFalconPraiseIt-ck8WBipX6QvLSdyA  2025/07/25    0.0000  NEGATIVE       NEGATIVE
-28  Twitch streamer Chrispymate was hit by lightning while online through their headphones.                                                               https://v.redd.it/661ef2ndjxef1  2025/07/25    0.0000  NEGATIVE       NEGATIVE
-29                                              x having fun with chat controlled chaos mod                 https://www.twitch.tv/xqc/clip/AdorableBlightedBoarSeemsGood-vGaMR5ZWPDmwdzfY  2025/07/25   -0.1027  NEGATIVE       POSITIVE
-30                                                                 XQC has his sealtbelt on                     https://www.twitch.tv/xqc/clip/EmpathicOddAppleAllenHuhu-0z1LSlWTFsCc63Se  2025/07/25    0.0000  NEGATIVE       NEGATIVE
-31                                Adin Ross wonders why people still waste time on 9-5 jobs                               https://kick.com/adinross/clips/clip_01K0ZFKSHHXJMTTNA2FGYE1ENE  2025/07/25   -0.4215  NEGATIVE       NEGATIVE
-32                          KAI CENAT says that African Americans "are not cultured at all"                                                               https://v.redd.it/lofygz6q0xef1  2025/07/25    0.0000  NEGATIVE       NEGATIVE
+                                                                                                             title                                                                                               url        date  compound   SA_nltk SA_distilibert
+0                                                                     Hafthor's new World Record deadlift, 505 kg.                                                                   https://v.redd.it/2ivmztwyuaff1  2025/07/26    0.0000  NEGATIVE       POSITIVE
+1                                                                                 Lirik searching for his soulmate                                                                   https://v.redd.it/0xxk0selqaff1  2025/07/26    0.5994  POSITIVE       POSITIVE
+2                                                                                  Tectone barely knew his father.                                                                   https://v.redd.it/6chrbdl3oaff1  2025/07/26    0.0000  NEGATIVE       NEGATIVE
+3                                                        First ever Minecraft walk out at Ibai LA VELADA DEL AÑO V                                                                   https://v.redd.it/wsvebk23naff1  2025/07/26    0.0000  NEGATIVE       NEGATIVE
+4                                            partnered twitch streamer dankquan banned for reacting to ibai  event                https://www.twitch.tv/dankquan/clip/FuriousCheerfulMarjoramLitFam-29L7syWRr6A1ncuM  2025/07/26   -0.4588  NEGATIVE       NEGATIVE
+5                                                                                           Forsen casts fire ball                  https://www.twitch.tv/forsen/clip/AverageGorgeousMoonBigBrother-7Meglyw59uid__ny  2025/07/26   -0.3400  NEGATIVE       POSITIVE
+6                                                                                     Knut and Bonnie almost crash                          https://www.twitch.tv/bonnie/clip/CrazyTallFrogPlanking-_IYGx9moIeYRQs8D  2025/07/26   -0.3415  NEGATIVE       NEGATIVE
+7                                                                                        Alfie gets a random event                                                                   https://v.redd.it/7ay9gizl6aff1  2025/07/26    0.0000  NEGATIVE       NEGATIVE
+8                                                               Cinna surprised her dad by buying him a Sports Car           https://www.twitch.tv/cinna/clip/CuriousConfidentPterodactylKappaPride-6Ufreg0Fl4ufOFzH  2025/07/26    0.2263  POSITIVE       POSITIVE
+9                                                                Contestant breaks his arm at Adin Ross's fat camp                                   https://kick.com/adinross/clips/clip_01K13ZW390BDAN8YSEMWZJMBCH  2025/07/26    0.0000  NEGATIVE       NEGATIVE
+10                              Ibai's stream reaches over 7.5m viewers, 3.5m more than the previous viewer record                       https://www.twitch.tv/ibai/clip/PricklyJoyousPuppyCmonBruh-bh6nd26cH6Xz2wFJ  2025/07/26    0.0516  NEGATIVE       POSITIVE
+11                                                          Asmongold thinks coffeezilla is a private investigator                 https://youtube.com/clip/UgkxjLxGQuz1LumKOvoz9MIKpejWQptGaCSz?si=qDUqpkz7u4ckWA_e  2025/07/26    0.0000  NEGATIVE       NEGATIVE
+12                                                                                           Arm Break at Fat Camp       https://www.twitch.tv/lacy/clip/BillowingRamshackleKeyboardResidentSleeper-JZgo2GUol3lD0zDe  2025/07/26    0.0000  NEGATIVE       NEGATIVE
+13                                                                Epic entrance for the first fight of La Velada V                      https://www.twitch.tv/ibai/clip/EnticingIgnorantDadCurseLit-f-GQjLUcuYwUINdz  2025/07/26   -0.3818  NEGATIVE       POSITIVE
+14                                                                        Is that what happens when u lose ur job?                                                                   https://v.redd.it/t834hbd9i9ff1  2025/07/26   -0.4019  NEGATIVE       NEGATIVE
+15  Spanish streamer Ibai breaks his own record on Twitch with more than 4.2 million concurrent viewers and rising                        https://www.twitch.tv/ibai/clip/SuperYawningSangFutureMan-Hi6Jo677WN3IXRiw  2025/07/26    0.0000  NEGATIVE       POSITIVE
+16                                                                             Dark Souls 1 Movement In A Nutshell         https://www.twitch.tv/420weabooslayer/clip/BlazingFlaccidSwanTBTacoRight-sp2CxhRSWL8R1kOL  2025/07/26    0.0000  NEGATIVE       NEGATIVE
+17         Ibai's fifth boxing event "La Velada" just started with a current viewer count of over 4 million people                https://www.twitch.tv/ibai/clip/DependableCourteousShieldEagleEye-7yt2NDloScapHzwJ  2025/07/26    0.0000  NEGATIVE       POSITIVE
+18                                                    Asmongold saying he hopes Trump does what Saddam Hussein did                                                                   https://v.redd.it/p0pu9meh09ff1  2025/07/26    0.4215  POSITIVE       NEGATIVE
+19                                                                                    Jobs are making a come back!                                                                   https://v.redd.it/bo93tp2a78ff1  2025/07/26    0.0000  NEGATIVE       POSITIVE
+20                                              All the chairs break during musical chairs at Adin Ross's fat camp                                   https://kick.com/adinross/clips/clip_01K125RZ0DG2CD5G7C67DQSG0T  2025/07/26    0.0000  NEGATIVE       NEGATIVE
+21                                                                                             if ADHD was a video            https://www.twitch.tv/ormenia/clip/ProductiveCoweringAsteriskOSkomodo--GvfFDF_bQaRCus5  2025/07/26    0.0000  NEGATIVE       NEGATIVE
+22                                                                      Caseoh turns on his camera on the Switch 2              https://www.twitch.tv/caseoh_/clip/ApatheticCoweringOcelotNononoCat-ycO5vGRgeG_iniYj  2025/07/26    0.0000  NEGATIVE       NEGATIVE
+23                                                                                          Biggest throw in CS GO             https://www.twitch.tv/bigcocobuns/clip/ReliableAntsyBorkCoolStoryBro-NjDadLL7fbSO7k1G  2025/07/26    0.0000  NEGATIVE       POSITIVE
+24                                                                     Bennymack gets flashbanged at an LA protest                                  https://kick.com/bennymack/clips/clip_01K12Q679R8WKY19SDVTB371J9  2025/07/26   -0.2500  NEGATIVE       NEGATIVE
+25                                                                                                    Pony by Mack          https://www.twitch.tv/extraemily/clip/UgliestExuberantPterodactylOpieOP-QDPpbZOoXiFy_gwZ  2025/07/26    0.0000  NEGATIVE       NEGATIVE
+26                                Robotaxi attempts to make left-turn from wrong lane and stops in one-way traffic         https://www.twitch.tv/themayor_mccheese/clip/FineFreezingOtterBibleThump-JBJRXqYlfJNwn9x-  2025/07/26   -0.5719  NEGATIVE       NEGATIVE
+27                                                                  irissiri129 - best streaching stream on twitch                https://www.twitch.tv/irissiri129/clip/UnusualSmallChamoisDBstyle--dxpz_MW5gwxIwSU  2025/07/26    0.6369  POSITIVE       POSITIVE
+28                                                                     Welyn's Titanic Arc off to a good start....                       https://www.twitch.tv/welyn/clip/SuaveSpicyPancakeBudBlast-HDua28J3KOAF17Hp  2025/07/26    0.4404  POSITIVE       POSITIVE
+29                                                       Emiru - ExtraEmily melts down meeting Patrick & Spongebob                       https://www.twitch.tv/emiru/clip/CulturedGiantToothDogFace-yJsdaY2wDVnNw9Hc  2025/07/26    0.0000  NEGATIVE       NEGATIVE
+30                                                           Going Live Playing new Skate. game Come Join n Blaze!              https://www.twitch.tv/araw420/schedule?seriesID=bff06608-1312-4a4c-8b9e-3bd32c16b17a  2025/07/26    0.5093  POSITIVE       POSITIVE
+31                                                                                          Caseoh finishes dinner             https://www.twitch.tv/caseoh_/clip/ObliviousFunPassionfruitBlargNaut-X94j4yeVOwSe1-dg  2025/07/26    0.0000  NEGATIVE       POSITIVE
+32                                                                     The Yard pulls up to the wrong neighborhood                     https://www.twitch.tv/ludwig/clip/SpicyExquisiteNigiriDuDudu-AGdCm4DLXUN03gJu  2025/07/26   -0.4767  NEGATIVE       NEGATIVE
+33                                                               Streamer Moxie gets violently attacked in Toronto                                                                   https://v.redd.it/8m78o15kb4ff1  2025/07/26   -0.7783  NEGATIVE       NEGATIVE
+34                                                                                 Squeex names his favorite woman  https://www.twitch.tv/im_dontai/clip/TriumphantInventiveSandwichAMPEnergyCherry-lWbwIytLP5uPnKJL  2025/07/26    0.4588  POSITIVE       NEGATIVE
+35                                                                          OSRS player gets chanced on HC ironman           https://www.twitch.tv/impappy_/clip/InspiringCulturedMarjoramTwitchRPG-_lXAk-Hzsq7yEZVB  2025/07/26    0.0000  NEGATIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    25
-POSITIVE     8
+NEGATIVE    29
+POSITIVE     7
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    23
-POSITIVE    10
+NEGATIVE    21
+POSITIVE    15
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
