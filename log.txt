@@ -1,46 +1,44 @@
 <!-- posts starts -->
-                                                                                           title                                                                                                                           url        date  compound   SA_nltk SA_distilibert
-0                                                               Everyday A New Epstein Diversion                                                                                               https://v.redd.it/x9c1lafkeahf1  2025/08/05    0.0000  NEGATIVE       POSITIVE
-1                                                                Squeex googles the wrong thing…                                                    https://www.twitch.tv/squeex/clip/CrackyObeseHippoPrimeMe-5CteFftqH6SkOvIx  2025/08/05   -0.4767  NEGATIVE       NEGATIVE
-2                                                          He didn't even go that fast - Guanyar                                                                                               https://v.redd.it/rq6jtfpq3ahf1  2025/08/05    0.0000  NEGATIVE       NEGATIVE
-3                                                         Perfect delivery by Christopher Walken                                                https://www.twitch.tv/divvity/clip/CleverFitSheepItsBoshyTime-TBroWioNHJ_2q6Bk  2025/08/05    0.5719  POSITIVE       POSITIVE
-4                                                                             Slip of the tongue  https://www.twitch.tv/carolinekwan/clip/LitigiousSavoryVultureDancingBanana-raB1rWikr5CTuw65?filter=clips&range=7d&sort=time  2025/08/05    0.0000  NEGATIVE       NEGATIVE
-5                                                 Intro to Agent and Emily's Elden Ring Marathon                                        https://www.twitch.tv/extraemily/clip/TrappedFaintPeppermintPicoMause-bFvINq8z7Gh4gjEe  2025/08/05    0.0000  NEGATIVE       NEGATIVE
-6                                                                             Lirik gets unlucky                                                 https://www.twitch.tv/lirik/clip/TrustworthyMoralToothUnSane-hv25wiqWaIexiXCc  2025/08/05    0.0000  NEGATIVE       NEGATIVE
-7                                                                      Tim clutches for his team                                                                                               https://v.redd.it/f2vdfkgrk9hf1  2025/08/05    0.0000  NEGATIVE       NEGATIVE
-8                                                                      Ela gets pushed by a tree               https://www.twitch.tv/elajjaz/clip/HealthySmoothCiderSaltBae-D-6JtaUx9Q3l_XA9?filter=clips&range=24hr&sort=time  2025/08/05    0.0000  NEGATIVE       NEGATIVE
-9                                                                         LickaPause in the chat                                                   https://www.twitch.tv/payo/clip/PlayfulAffluentSpiderSMOrc-khuKKZtRurMAz8eE  2025/08/05    0.0000  NEGATIVE       NEGATIVE
-10                                                 Streamer let's people bully his son for money                                                                                               https://v.redd.it/wihmqegwp7hf1  2025/08/05   -0.4939  NEGATIVE       NEGATIVE
-11                                                               Adin Ross shows love to Ricegum                                                               https://kick.com/adinross/clips/clip_01K1XQ46NTZWMKTGX0PADMZM6S  2025/08/05    0.6369  POSITIVE       POSITIVE
-12                                                                         The voice of an angel                                         https://www.twitch.tv/forsen/clip/IntelligentOriginalCrabsBibleThump-P8YXR90bTjwkPoQT  2025/08/05    0.0000  NEGATIVE       POSITIVE
-13  Adin Ross says his relatives and family friends were upset with him for supporting Palestine                                                                                               https://v.redd.it/y8kiqz3nf8hf1  2025/08/05    0.5267  POSITIVE       NEGATIVE
-14                                                                Small streamer defends himself                                                                                               https://v.redd.it/kqwbmr1pq7hf1  2025/08/05    0.0000  NEGATIVE       POSITIVE
-15                                                                      Typical game of Wildgate                                   https://www.twitch.tv/twoangrygamerstv/clip/DistinctPeacefulHedgehogWTRuck-Y-PSZDAlnsoJWGz1  2025/08/05    0.0000  NEGATIVE       NEGATIVE
-16                                                          xQc laughs at his gambling addiction                                                                    https://kick.com/xqc/clips/clip_01K1XF21VTJAR6ZFVBWZTAGKAN  2025/08/05    0.4939  POSITIVE       POSITIVE
-17                                                Twitch Streamer mods his actual body into RDR2                                                https://www.twitch.tv/blurbs/clip/RelievedVainIguanaSwiftRage-Z_v21gTD9aj2jEtZ  2025/08/05    0.0000  NEGATIVE       NEGATIVE
-18                                                                             mossad is working                                                  https://www.twitch.tv/mhyochi/clip/LightSlickDeerStrawBeary-eYScLSATlKLn8-LL  2025/08/05    0.0000  NEGATIVE       POSITIVE
-19                                                                       Nick on Ethan VS Reddit                                                                                               https://v.redd.it/wk1qy8bke7hf1  2025/08/05    0.0000  NEGATIVE       POSITIVE
-20                                                               Adin Ross speaks on viewbotting                                                               https://kick.com/adinross/clips/clip_01K1WA2NTBSR2VTE3Z8EB83KW3  2025/08/05    0.0000  NEGATIVE       POSITIVE
-21                                                                         xQc is fully immersed                                                                                               https://v.redd.it/acr2lu21h6hf1  2025/08/05    0.0000  NEGATIVE       POSITIVE
-22                                             Gross Gore says his thoughts on women in Politics                                                https://kick.com/grossgore/videos/d8ddefa9-9dc0-493e-ab2e-1226acf9be93?t=23925  2025/08/05   -0.4767  NEGATIVE       NEGATIVE
-23                                                                    Dr Pepper Guy Kick version                                                                 https://kick.com/shoovy/clips/clip_01K1WBX3JTYDG9AN3GGMZ9C3J3  2025/08/05    0.0000  NEGATIVE       NEGATIVE
-24                  Got this guy to say sigma skibidi in Japanese. Made me piss myself laughing.                                                    https://www.twitch.tv/rrmy7/clip/GracefulLuckyGrassDuDudu-xLIKCtfwt1RhfQn2  2025/08/05    0.1280  NEGATIVE       NEGATIVE
-25                                                      irissiri129 = chairris aka bobby's chair                                                  https://www.twitch.tv/irissiri129/clip/SlickRacyCodImGlitch-UfkBC31Eyb797fpg  2025/08/05    0.0000  NEGATIVE       NEGATIVE
-26                                                               Aiko walks in at the worst time                                                                                               https://v.redd.it/odfem3ie14hf1  2025/08/05   -0.6249  NEGATIVE       NEGATIVE
-27                                                        Hasan gives urgent plea to his viewers                                                                                               https://v.redd.it/ahakb5aaw3hf1  2025/08/05    0.2023  POSITIVE       POSITIVE
-28                                                                             Fox News trolling                                             https://youtube.com/clip/Ugkx6XpOmI-DUo1LeCHMufQxbvF7QBamhJfp?si=VU-oAYECLXe5pc8m  2025/08/05    0.0000  NEGATIVE       NEGATIVE
+                                                                                 title                                                                                        url        date  compound   SA_nltk SA_distilibert
+0       dima_wallhacks dropped his brand new keyboards keys on the floor like an idiot    https://www.twitch.tv/dima_wallhacks/clip/AdventurousShakingClamPupper-xxNc5BD84uVFNAp4  2025/08/08   -0.2023  NEGATIVE       NEGATIVE
+1                                                    Don’t tell ChiLongQua what to do.            https://www.twitch.tv/chilongqua/clip/OnerousDeadOryxBrokeBack-gjyqY0g_ajzieASw  2025/08/08    0.0000  NEGATIVE       NEGATIVE
+2                                                                Forsen becomes Shroud     https://www.twitch.tv/forsen/clip/FriendlyEnergeticWoodcockTBTacoLeft-zyoQxCi_qIeGhDQF  2025/08/08    0.0000  NEGATIVE       NEGATIVE
+3                                                                    Cacaws vs Squeaks       https://www.twitch.tv/hyperstipherx/clip/GenerousEasyLouseThunBeast-TqntcjOjOJw2cLaR  2025/08/08    0.0000  NEGATIVE       NEGATIVE
+4           Techno-Friday Club Edition (Streaming Games + Techno DJ + 24hrs in a Club)       https://www.twitch.tv/handofblood/clip/DepressedArbitraryOwlTakeNRG-1jJR6bLIOt8Xe0FH  2025/08/08    0.0000  NEGATIVE       POSITIVE
+5                                                        boxbox - a little bit of bait      https://www.twitch.tv/boxbox/clip/FamousEphemeralNigiriDoubleRainbow-AZ1gtIHBLXVY5BkR  2025/08/08    0.0000  NEGATIVE       POSITIVE
+6                                                         Grays with a goated sign off          https://youtube.com/clip/UgkxuU5_2PCrZKKpIpBXn5ffXcjYTLuR30gQ?si=hMzXFSIIQnJTGYcZ  2025/08/08    0.0000  NEGATIVE       NEGATIVE
+7                                                   Zoil smokes Maya with a clean shot                                                            https://v.redd.it/ev1vtxecbvhf1  2025/08/08    0.4019  POSITIVE       POSITIVE
+8                                                                Hachu misses the shot                  https://clips.twitch.tv/InexpensiveWanderingRabbitNotATK-N0TNJQ7ycEhXUqWY  2025/08/08   -0.2263  NEGATIVE       NEGATIVE
+9                                                   POV of your mom with your strimmer                                                            https://v.redd.it/yf1xl0az8vhf1  2025/08/08    0.0000  NEGATIVE       POSITIVE
+10                                                 Berlin Police enters the dancefloor                     https://clips.twitch.tv/FlaccidFaintNarwhalStrawBeary-QWSzHSjkguu-of7s  2025/08/08    0.0000  NEGATIVE       POSITIVE
+11                                                 Aris discusses gambling on the WNBA    https://www.twitch.tv/avoidingthepuddle/clip/AthleticCuteMilkBrokeBack-kJtOVf0uZcavGoJN  2025/08/08    0.0000  NEGATIVE       POSITIVE
+12                                                             I don't know what to do        https://www.twitch.tv/stuntmcdouble/clip/HealthySleepyDillEagleEye-IcMwOL6oMYcRwWeU  2025/08/08    0.0000  NEGATIVE       NEGATIVE
+13                                          Jason checks in on erobbs training session     https://www.twitch.tv/jasontheween/clip/SuperFrigidWoodpeckerBabyRage-bzz0xRyhTLXZPnmz  2025/08/08    0.0000  NEGATIVE       POSITIVE
+14                                                             Rosii calls Wojitoo out       https://www.twitch.tv/cinna/clip/EnchantingSparklingSowThisIsSparta-RdHpZhk6jozxQupR  2025/08/08    0.0000  NEGATIVE       NEGATIVE
+15                                                                COD player vs BF pro        https://www.twitch.tv/enders/clip/AbnegateSmallSalamanderBrainSlug-G45A2qeRJvZSSVgg  2025/08/08    0.0000  NEGATIVE       NEGATIVE
+16                                                  If there is a will, there is a way                https://www.twitch.tv/barbarousking/clip/DarkTawdryLEDMcaT-gvJyQ-wE4X7Va_yB  2025/08/08    0.0000  NEGATIVE       NEGATIVE
+17                                                      Quin asks chat how he's doing.  https://www.twitch.tv/quin69/clip/ProtectiveEntertainingSwallowTwitchRPG-EqBYlO-_EGUlpULX  2025/08/08    0.0000  NEGATIVE       POSITIVE
+18                                                                      An actual fail                             https://clips.twitch.tv/AbrasiveOilyOilMVGame-QQb9Uxtnec9gyMeK  2025/08/08   -0.5423  NEGATIVE       NEGATIVE
+19                                           Emily almost tags rim on basketball hoop!     https://www.twitch.tv/extraemily/clip/DarlingPreciousEggplantGOWSkull-fz-eNrhNiz0enhcf  2025/08/08    0.0000  NEGATIVE       NEGATIVE
+20                                   Are Gooners? Out of Touch? He Doesn’t Hold Back!!          https://youtube.com/clip/UgkxqG9AXMd4TNrIOWmE4qJVBG83cfnTIjCe?si=X-c8tKxxJaj4gxzB  2025/08/08    0.0000  NEGATIVE       POSITIVE
+21                                                           Most normal german stream                                                            https://v.redd.it/ywgj06fscuhf1  2025/08/08    0.0000  NEGATIVE       POSITIVE
+22                                                                               truck              https://www.twitch.tv/geezgiselle/clip/RudeSwissDunlinBCouch-DQu3YbNkhjPS_ZJr  2025/08/08    0.0000  NEGATIVE       NEGATIVE
+23                                                                     CookSux Owe OMG                https://www.twitch.tv/mhyochi/clip/BetterGrossSowBlargNaut-7gNMddvSgW08Xa_V  2025/08/08    0.0000  NEGATIVE       NEGATIVE
+24                                                                      Forbidden Love             https://www.twitch.tv/sips_/clip/RacyPrettiestSowStinkyCheese-gsagpCnVlq-sx78Z  2025/08/08    0.3400  POSITIVE       POSITIVE
+25  Married couple creates their own interactive point-and-click adventure game stream         https://www.twitch.tv/nursehuckleberry/clip/SneakyExcitedPieLitty-HwCoHKeknHV-7Ljp  2025/08/08    0.5267  POSITIVE       POSITIVE
+26                                                 extra emily possessed by the labubu                                                            https://v.redd.it/zixgyujagthf1  2025/08/08    0.0000  NEGATIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
 NEGATIVE    24
-POSITIVE     5
+POSITIVE     3
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    18
-POSITIVE    11
+NEGATIVE    14
+POSITIVE    13
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
