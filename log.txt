@@ -1,38 +1,44 @@
 <!-- posts starts -->
-                                                                                                                                   title                                                                                       url        date  compound   SA_nltk SA_distilibert
-0                                                                          New streamer DMenisDenis gets excited for the first raid ever                                                           https://v.redd.it/mwueluwynoqg1  2026/03/22    0.3400  POSITIVE       POSITIVE
-1                                                                       Milkyrone Maintains Her Composure in the Search of a Screwdriver         https://www.twitch.tv/milkyrone/clip/TacitLittleBorkStinkyCheese-HwMsUIotJdy0dTRq  2026/03/22    0.0772  NEGATIVE       POSITIVE
-2                                                                                          Deji Clutches in Jynxzi's rainbow 6 challenge                                                           https://v.redd.it/a44flb7h3oqg1  2026/03/22    0.0772  NEGATIVE       POSITIVE
-3                                                                                                       Ohne takes an ideological stance             https://www.twitch.tv/ohnepixel/clip/ObliqueGiantDogeOhMyDog-sxjBJyL_p6D4sNoe  2026/03/22    0.0000  NEGATIVE       POSITIVE
-4                                                                                          xQc picked as the Goalkeeper for team Sidemen  https://www.twitch.tv/stableronaldo/clip/EnticingIncredulousWebRuleFive-QMy0LMbyHG-8mUsK  2026/03/22    0.0000  NEGATIVE       POSITIVE
-5                                                                                A biker makes an appearance on Cinna and Jason's stream                                                           https://v.redd.it/6o64vczifnqg1  2026/03/22    0.0000  NEGATIVE       POSITIVE
-6   Billy the Fridge puts his hand around one of his co-hosts throats and screams "I will fucking kill you" during a recent live stream.                                                           https://v.redd.it/5hvb6otl7nqg1  2026/03/22   -0.6115  NEGATIVE       NEGATIVE
-7                                                                                                                     Forsen cam freezes               https://www.twitch.tv/forsen/clip/TiredBovineFriesBudBlast-aQmgZBZWJYZXDKI2  2026/03/22   -0.0258  NEGATIVE       NEGATIVE
-8                                                                        Sunglitters has a very interesting way of describing something.              https://www.twitch.tv/sunglitters/clip/SuaveTastyHawkFunRun-gCIxpoaJMGQ72lEC  2026/03/22    0.4576  POSITIVE       POSITIVE
-9                                          Chatter sends erby a printout on Day 7 of his Sitting in a Square for $20/hr challenge stream              https://clips.twitch.tv/ImpossibleIntelligentOwlFeelsBadMan-xnhdsIuXrL6Dojcj  2026/03/22    0.0772  NEGATIVE       NEGATIVE
-10                                                                                                                Aris' anesthesia story    https://www.twitch.tv/avoidingthepuddle/clip/PreciousLazyBulgogi4Head-gefp8hYIO4vERRMY  2026/03/22    0.0000  NEGATIVE       POSITIVE
-11                                                                    Klats seem to be enjoying their time with Velcuz a little too much                                                           https://v.redd.it/r56vzmi4bmqg1  2026/03/22    0.5267  POSITIVE       NEGATIVE
-12                                    Virtual Idol Hoshimachi Suisei holds an acoustic live concert for her 8th Anniversary celebration.                                                           https://v.redd.it/px3z94ar6mqg1  2026/03/22    0.0000  NEGATIVE       POSITIVE
-13                                                                                 Velcuz and Vangard In Fat Suits Rizzing Up Rich Ladys                                                           https://v.redd.it/byhdsb9axlqg1  2026/03/22    0.5574  POSITIVE       POSITIVE
-14                                                                                                    Velcuz and Klats Supplies Says Bye                                                           https://v.redd.it/0ljjt9s6wlqg1  2026/03/22    0.0000  NEGATIVE       NEGATIVE
-15                                                         I got launched out of the map! lol (Genesis Rider Halo Infinite funny moment)                                                           https://v.redd.it/hh9f7poy4lqg1  2026/03/22    0.7574  POSITIVE       POSITIVE
-16                                                                                                                Gappy Gets Baby Mogged                                                           https://v.redd.it/h0ydx5mp6kqg1  2026/03/22    0.0000  NEGATIVE       NEGATIVE
-17                                                                                                      Jinny is just a shy IRL streamer    https://www.twitch.tv/jinnytty/clip/MildAntediluvianClipzAMPTropPunch-ZMaFV72tbqpNAswt  2026/03/22   -0.2500  NEGATIVE       POSITIVE
-18                                                                                          Michael and Ludwig's first day of Tip to Tip         https://www.twitch.tv/scarra/clip/TemperedBumblingChoughPipeHype-kPD2Ey83ooh-lJWp  2026/03/22    0.0000  NEGATIVE       POSITIVE
-19                                                                                             Arrav has the longest snore in existence.                                                           https://v.redd.it/65upaoux6iqg1  2026/03/22    0.0000  NEGATIVE       NEGATIVE
-20                                                            Hasan says he is required by law to stay in five star hotels while in Cuba                                                           https://v.redd.it/i3qrmahgnhqg1  2026/03/22    0.0000  NEGATIVE       NEGATIVE
+                                                                                     title                                                                                                                              url        date  compound   SA_nltk SA_distilibert
+0                                                                        xQc debates Hasan                                                      https://www.twitch.tv/xqc/clip/SwissPleasantBadgerRuleFive-SyiuKkNayPOB6vTg  2026/03/23    0.0000  NEGATIVE       NEGATIVE
+1                                                   HyperStipherX dies a little bit inside                                       https://www.twitch.tv/hyperstipherx/clip/PiercingEndearingSwanKevinTurtle-wwUZdz0xnVza6207  2026/03/23    0.0000  NEGATIVE       NEGATIVE
+2                                                  Forsen practices Swedish throat singing                                                      https://www.twitch.tv/forsen/clip/IcyAntediluvianSnoodMcaT-maIcXgG26fy5S1A5  2026/03/23    0.0000  NEGATIVE       POSITIVE
+3                                 Rae and Syykuno take the Resident Evil 5 friendship test                                          https://www.twitch.tv/valkyrae/clip/ProductiveInnocentGnatCoolStoryBro-sJ2bbqagkHL6APe9  2026/03/23   -0.3612  NEGATIVE       NEGATIVE
+4                                                    xQc can't believe what he just played                                                     https://www.twitch.tv/xqc/clip/CuteBovineSandpiperSwiftRage-LuAs0kz_Irc77sA6  2026/03/23    0.3400  POSITIVE       NEGATIVE
+5                                                                That means maybe.... HUH?                                                                                                  https://v.redd.it/55hlfa2vnvqg1  2026/03/23    0.0000  NEGATIVE       NEGATIVE
+6                                              Clavicular kicks out cheating girl at party                                                                                                  https://v.redd.it/57s9scdvmvqg1  2026/03/23   -0.2263  NEGATIVE       NEGATIVE
+7                        Hasan tells a story about his airport experience in Havana, Cuba.                                                                                                  https://v.redd.it/resm0suowuqg1  2026/03/23    0.0000  NEGATIVE       POSITIVE
+8                                       xQc slows down Ohne's clip and makes it even worse                                                         https://www.twitch.tv/xqc/clip/SaltyYummySquidFutureMan-3LqkffV4IYx6QjOf  2026/03/23   -0.4767  NEGATIVE       NEGATIVE
+9                                                             Zywoo 1v5 clutch in overtime                                                https://www.twitch.tv/blastpremier/clip/CuteHelpfulFloofRalpherZ-S9pt0Nh_khBcLOxi  2026/03/23    0.0000  NEGATIVE       NEGATIVE
+10                                  Nick Lee gets racially abused on a family trip in Rome                                                                                                  https://v.redd.it/2cv234eqiuqg1  2026/03/23   -0.5106  NEGATIVE       NEGATIVE
+11                                                                 T10Nat Raves for a Raid                                          https://www.twitch.tv/t10nat/clip/OriginalRelentlessJuicePhilosoraptor-mzoLhCMIM4du7mb2  2026/03/23    0.0000  NEGATIVE       NEGATIVE
+12                                                                Shroud finds new earring                                                    https://www.twitch.tv/shroud/clip/GoldenCrunchyChoughPJSugar-rMgAZzqKBC12LOoM  2026/03/23    0.0000  NEGATIVE       POSITIVE
+13                                 Nick White reacts to DMS between Mizkif and his Clipper                                                                                                  https://v.redd.it/ylnp44f6buqg1  2026/03/23    0.0000  NEGATIVE       NEGATIVE
+14                   Elderly streamer Darksydephil calls pokemon frustrating and difficult                                                                                                  https://v.redd.it/4t9fl94e8uqg1  2026/03/23   -0.6597  NEGATIVE       NEGATIVE
+15  YouTuber found guilty of killing pregnant girlfriend while faking GTA stream for alibi  https://www.dexerto.com/youtube/youtuber-found-guilty-of-killing-pregnant-girlfriend-while-faking-gta-stream-for-alibi-3339562/  2026/03/23   -0.8750  NEGATIVE       NEGATIVE
+16                                              Amaz fights the bee man - Slay the Spire 2                                                          https://www.twitch.tv/amaz/clip/DeadFlirtyButterTTours-Nvcaj2C-bG9q9btt  2026/03/23   -0.4019  NEGATIVE       NEGATIVE
+17                                                 yoon_froggy and butter are not cultured                                          https://www.twitch.tv/yoon_froggy/clip/CuriousDelightfulAntelopeUnSane-J1_EpA4teiDlW1C2  2026/03/23    0.0000  NEGATIVE       NEGATIVE
+18                 Counter Strike player smashes his mouse in overtime of elimination game                                                                                                  https://v.redd.it/xouauqhuhtqg1  2026/03/23   -0.1280  NEGATIVE       NEGATIVE
+19                                               MeesterKeem and CookSux do not look alike                                              https://www.twitch.tv/meesterkeem/clip/HungryIgnorantClamDendiFace-Si2VcJuG7ZVCNYZQ  2026/03/23    0.0000  NEGATIVE       NEGATIVE
+20                                                 Clean knockout in MMA fight (Juliakins)                                         https://www.twitch.tv/juliakins/clip/AmazingSlipperyNightingaleBatChest-ikxoxgTSk2-IpoDk  2026/03/23    0.0258  NEGATIVE       POSITIVE
+21                           MrMouton proves that being a full time streamer is a real job                                                                                                  https://v.redd.it/5t8e1w6sisqg1  2026/03/23    0.0000  NEGATIVE       POSITIVE
+22                                                  UAF travels back in time to get Forsen                                                  https://www.twitch.tv/forsen/clip/MagnificentKitschyHornetDerp-OH5xxh65ZaYbO2q-  2026/03/23    0.0000  NEGATIVE       NEGATIVE
+23                                                              Ludwig being a true friend                                                                                                  https://v.redd.it/j3th19vq1rqg1  2026/03/23    0.7184  POSITIVE       POSITIVE
+24                            WoW Raiding guild <gn> crashes out on heroic difficulty week                                                                                                  https://v.redd.it/pzhy9d30iqqg1  2026/03/23    0.7184  POSITIVE       NEGATIVE
+25                                                           Roflgator takes a trivia quiz                                        https://www.twitch.tv/roflgator/clip/VenomousEsteemedGiraffeCharlieBitMe-KKp7HL0rQd63U7w0  2026/03/23    0.0000  NEGATIVE       NEGATIVE
+26                                                      Jasontheween did a reverse robbery                                                                                                  https://v.redd.it/d39dki45zoqg1  2026/03/23    0.0000  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    16
-POSITIVE     5
+NEGATIVE    24
+POSITIVE     3
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-POSITIVE    13
-NEGATIVE     8
+NEGATIVE    21
+POSITIVE     6
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
