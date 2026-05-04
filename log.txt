@@ -1,38 +1,37 @@
 <!-- posts starts -->
-                                                                                                     title                                                                                        url        date  compound   SA_nltk SA_distilibert
-0                                             New group "CORE" got SWATTED an hour into their intro stream     https://www.twitch.tv/jasontheween/clip/DeadCredulousPterodactylLitty-EdsVcjTFtS1Ja-kU  2026/05/02    0.0000  NEGATIVE       NEGATIVE
-1                                                                                        Soda gets serious                                                            https://v.redd.it/n9c61ah00tyg1  2026/05/02   -0.0772  NEGATIVE       POSITIVE
-2                                                                        Soda faces the endboss of Omoggle                                                            https://v.redd.it/ccwz71vousyg1  2026/05/02    0.0000  NEGATIVE       NEGATIVE
-3                                                                                            2 Girls 1 Cup                                                            https://v.redd.it/f88dkaqmusyg1  2026/05/02    0.0000  NEGATIVE       POSITIVE
-4                                                  Comedian Joey Diaz having the time of his life in GTA 5                                                            https://v.redd.it/oejctfeoosyg1  2026/05/02    0.3818  POSITIVE       NEGATIVE
-5                                            Soda gets caught off guard by an in-game dono in Content King      https://www.twitch.tv/sodapoppin/clip/IgnorantPoisedChickpeaImGlitch-qi8d9m2ftaTQhCOg  2026/05/02    0.0000  NEGATIVE       NEGATIVE
-6                                                                Erobb221 Weightmoggs His Budget Bed frame                                                            https://v.redd.it/isalwpufdsyg1  2026/05/02    0.0000  NEGATIVE       NEGATIVE
-7                                                            Blast using fake crowd sounds for dead crowd?        https://www.twitch.tv/blastpremier/clip/ClumsyGlutenFreeMeerkatWow-qFTI6h7nW0PLYQF5  2026/05/02   -0.8126  NEGATIVE       NEGATIVE
-8                                                                                                I am Navi  https://www.twitch.tv/sigmashake/clip/TrustworthyIntelligentOctopusFloof-OqpS_qF1PozU3nJ0  2026/05/02    0.0000  NEGATIVE       POSITIVE
-9                                   Art streamer (@ver_kuki) gets stormed by iranian protesters in germany                                                            https://v.redd.it/swvwyo4g0ryg1  2026/05/02   -0.2263  NEGATIVE       NEGATIVE
-10                                                                             Tenzin gets a little scared            https://www.twitch.tv/tenzinniznet/clip/WittySuperMilkPogChamp-c20rCtJbL2WmHqhJ  2026/05/02   -0.3832  NEGATIVE       NEGATIVE
-11                                      Filian wipes out/privates her Youtube, X, Twitch and other socials                                      https://x.com/RimaEvenstar/status/2050367084752761343  2026/05/02    0.0000  NEGATIVE       NEGATIVE
-12                                                                              Asmongold omoggle maxxing.                                                            https://v.redd.it/xg9ey2edmqyg1  2026/05/02    0.0000  NEGATIVE       NEGATIVE
-13  Asmongold calls BS on FaZe Banks' 60k viewer stream: "9 minutes, 50k viewers... I don't think so guys"                           https://kick.com/asmongold/clips/clip_01KQMHZD7H3TX1ZAS0R3SVFBQR  2026/05/02    0.0000  NEGATIVE       NEGATIVE
-14                                         Valkyrae's worries get immediately justified in Resident Evil 8    https://www.twitch.tv/valkyrae/clip/EntertainingPlayfulBoarPanicBasket-VxBNFqbgOnbXRlJj  2026/05/02   -0.6705  NEGATIVE       POSITIVE
-15                          Rae watches the Arky & Yugi attack & her protective Aunty instincts kicked in:         https://www.twitch.tv/valkyrae/clip/MistyEndearingWrenchBCWarrior-y65SOW6N9afsMKnH  2026/05/02   -0.4767  NEGATIVE       NEGATIVE
-16                                         Arky & Yugi gets into a fistfight with an indian guy in Toronto                                                            https://v.redd.it/v943gvxt9nyg1  2026/05/02    0.0000  NEGATIVE       NEGATIVE
-17                                                                             Tyler gets his rank in 2XKO        https://www.twitch.tv/loltyler1/clip/DaintyHeadstrongYakKappaClaus-g9YIh5qeqtKZ0NHp  2026/05/02    0.0000  NEGATIVE       POSITIVE
-18                                                 Dantes' delivers Perfact motivational speech for jynxzi                                                            https://v.redd.it/241x0njfumyg1  2026/05/02    0.0000  NEGATIVE       POSITIVE
-19                                                                                 Jumpscare Breaks Camera         https://www.twitch.tv/illfinity/clip/GlutenFreeHardKumquatOSsloth-ZzflA1YNXrYQiZ9X  2026/05/02    0.0000  NEGATIVE       NEGATIVE
-20                                            LowTierGod pees in shaker cups to keep his bathroom sanitary                                                            https://v.redd.it/fh10wosj7myg1  2026/05/02    0.0000  NEGATIVE       NEGATIVE
+                                                                                                                                     title                                                                                           url        date  compound   SA_nltk SA_distilibert
+0                                                                                                              IShowSpeed - I Like Turtles           https://www.twitch.tv/ishowspeed/clip/DaintyDreamyAardvarkPipeHype-7Wx4z30TfiByDiDc  2026/05/03    0.3612  POSITIVE       POSITIVE
+1                                                 xQc says that only male officers should give commands because they are more intimidating                   https://www.twitch.tv/xqc/clip/MildTransparentDonutVoteNay-2F9Jww7wRQTNDfjw  2026/05/03   -0.4927  NEGATIVE       NEGATIVE
+2                                                                                  Forsen struggling to find excuse after newest god throw                                                               https://v.redd.it/lvt1gx5hqyyg1  2026/05/03   -0.1027  NEGATIVE       NEGATIVE
+3                                                                                IShowSpeed kisses a stingray and grabs its barb on stream              https://www.twitch.tv/ishowspeed/clip/ResilientTardyCrabsOSfrog-wEcgQNDp4-12z_uM  2026/05/03    0.5106  POSITIVE       POSITIVE
+4                                                                                         She's not that good at roller-skating @Kattycore                                                               https://v.redd.it/rc51in8e2yyg1  2026/05/03   -0.3412  NEGATIVE       NEGATIVE
+5   EVO Japan 2026 sets a Guinness World Record for the Largest Tournament for a Single Fighting Game with 7,168 Street Fighter 6 Entrants                                                               https://v.redd.it/z24v4vw15wyg1  2026/05/03   -0.2263  NEGATIVE       POSITIVE
+6                                                                                              Hardcore Makgora Payo vs  streamsniper Lard              https://www.twitch.tv/payo/clip/TenaciousSullenCattleTBTacoLeft-k8YOyukoNKQLCIY3  2026/05/03    0.0000  NEGATIVE       NEGATIVE
+7                                                                      Streamer Graycen fails sponsorship because he's too bad at the game     https://www.twitch.tv/graycen/clip/HelplessInquisitiveAsteriskStrawBeary--mszZG2fY46WRrhI  2026/05/03   -0.7430  NEGATIVE       NEGATIVE
+8                                                                                              Sodapoppin watches streamers play "67speed"                                                               https://v.redd.it/yv07t5hpxwyg1  2026/05/03    0.3400  POSITIVE       NEGATIVE
+9                                                            Pepperoni Dance Streamer Varmell dissapoints audience with too much pepporoni        https://www.twitch.tv/varmell/clip/BenevolentKathishGarbageKappaClaus-jZquwLeN7wA8gJan  2026/05/03    0.0000  NEGATIVE       NEGATIVE
+10                                                                                             Gorgc realizes how much walnuts he just ate                                                               https://v.redd.it/a5xkpjxzqwyg1  2026/05/03    0.0000  NEGATIVE       NEGATIVE
+11                                                                                           Just another night in Vancouver for @ crayong                                https://kick.com/crayong/clips/clip_01KQPPE1ZMNGQST7FZXYEJBHSG  2026/05/03    0.0000  NEGATIVE       NEGATIVE
+12                                                                                                     streamer attempting to do keepy-ups                                                               https://v.redd.it/rtsp0n0zmvyg1  2026/05/03    0.0000  NEGATIVE       NEGATIVE
+13                                                                                                EVO Japan Tekken 8 winner tastes victory  https://www.twitch.tv/avoidingthepuddle/clip/GentleVivaciousInternKappaRoss-p-W1TV8v0hzAuZC8  2026/05/03    0.5859  POSITIVE       POSITIVE
+14                                                                        Streamer Varmell makes a really strong impression on Mog Battles                 https://www.twitch.tv/varmell/clip/KathishLovelyScallionMau5-BnXrU74yhi3DxTzS  2026/05/03    0.4890  POSITIVE       POSITIVE
+15                                                                                         T10Nat shows how her streaming lights are setup                                                               https://v.redd.it/y2elvyjjvuyg1  2026/05/03    0.0000  NEGATIVE       NEGATIVE
+16                                                                                               White Hat Hacker Streams on IGN's Account                     https://www.twitch.tv/ign/clip/PunchyRefinedBobaPlanking-cF69YuKIyYqG2yhG  2026/05/03    0.0000  NEGATIVE       NEGATIVE
+17                                                                                                         Squeex helps Fuslie find a man:               https://www.twitch.tv/squeex/clip/DarkGlamorousPastaKappaClaus-UmScOSg7oe2RM9VS  2026/05/03    0.3818  POSITIVE       POSITIVE
+18                                                                                   How can you be that happy for being someone elses dog              https://www.twitch.tv/gregkeo/clip/SteamyCrispyCrowStinkyCheese-OWQhHPuKpAT_TOSV  2026/05/03    0.5719  POSITIVE       POSITIVE
+19                                                        Wannabe looksmaxxing streamer goes back to sodamaxxing after a devastating loss.                                                               https://v.redd.it/wtj5tuut9tyg1  2026/05/03   -0.7650  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    20
-POSITIVE     1
+NEGATIVE    13
+POSITIVE     7
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    15
-POSITIVE     6
+NEGATIVE    13
+POSITIVE     7
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
