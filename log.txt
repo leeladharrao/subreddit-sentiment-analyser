@@ -1,49 +1,50 @@
 <!-- posts starts -->
-                                                                                                            title                                                                                          url        date  compound   SA_nltk SA_distilibert
-0                                                            xQc got Forza Horizon for 1 thing and 1 thing only..                      https://www.twitch.tv/xqc/clip/ObeseSeductiveAntKlappa-DVpCqlvAfxAvb5jx  2026/05/25    0.0000  NEGATIVE       NEGATIVE
-1                                                                                        erobb scared of CN tower                                                              https://v.redd.it/zdddlinadd3h1  2026/05/25   -0.4404  NEGATIVE       NEGATIVE
-2                                                                                 When Neon goes and takes a shit                                  https://kick.com/n3on/clips/clip_01KSGPJ1469MDZ1DYRP9HHXHKW  2026/05/25   -0.5574  NEGATIVE       NEGATIVE
-3                                              Destiny hears out a concerned citizen's take on the Hasan subpoena                                                              https://v.redd.it/hdip1a7w2d3h1  2026/05/25    0.0000  NEGATIVE       POSITIVE
-4                                                                                              Erobb's stream F's                                                              https://v.redd.it/bfzt22dr1d3h1  2026/05/25    0.0000  NEGATIVE       NEGATIVE
-5                                                                  Hasan reacts to Fox News talking about his dog                                                              https://v.redd.it/f28r3ns70d3h1  2026/05/25    0.0000  NEGATIVE       POSITIVE
-6                                                                                            erobb finally mogged                                                              https://v.redd.it/spozqu9zuc3h1  2026/05/25    0.0000  NEGATIVE       NEGATIVE
-7                                                                                Arky flips car while off roading                                                              https://v.redd.it/8fmf1wwerc3h1  2026/05/25    0.0000  NEGATIVE       NEGATIVE
-8                                                                  Erobb arrives at his meet-and-greet in Toronto             https://www.twitch.tv/erobb221/clip/QuaintArtsyClamRiPepperonis-NAA438Cp8u-VzLR6  2026/05/25    0.0000  NEGATIVE       POSITIVE
-9                                                                                ExtraEmily Has Really Fallen Off   https://www.twitch.tv/extraemily/clip/EnthusiasticBashfulLegPeteZarollTie-3tplwQhajZ0wXzlV  2026/05/25   -0.4201  NEGATIVE       NEGATIVE
-10                                                          Knut kicked out of park due to "commercial activity".                                  https://kick.com/knut/clips/clip_01KSGDPP16AETPR89XKT4E1DC8  2026/05/25    0.0000  NEGATIVE       NEGATIVE
-11                                                                     Dantes coaches Dantes at League of Legends                                                              https://v.redd.it/aha46khghc3h1  2026/05/25    0.0000  NEGATIVE       POSITIVE
-12                                                           Ohne finally gets to show off with steering in Forza        https://www.twitch.tv/ohnepixel/clip/NimbleProtectiveFrogKeyboardCat-rQVlRXmEzaNuMvRi  2026/05/25    0.0000  NEGATIVE       POSITIVE
-13                                                                            Ohnepixel doesnt know how to drive?           https://www.twitch.tv/ohnepixel/clip/VenomousObeseBurritoTinyFace-0roQdZ7mV5cl4Mpe  2026/05/25    0.0000  NEGATIVE       NEGATIVE
-14                                                                                InvaderVie talks about the gays                 https://www.twitch.tv/invadervie/clip/BloodyDreamyFishKappa-KmfrrSSUqLLH678Z  2026/05/25    0.0000  NEGATIVE       POSITIVE
-15                                                           Next level react streamer Quin69 shows how to stream                       https://www.twitch.tv/quin69/clip/OddArtsyLadiesDxCat-iPa3SyGMAVxgMzk_  2026/05/25    0.0000  NEGATIVE       POSITIVE
-16         Ohnepixel: Season 2 of thrilling steering wheel saga, this time with Fanatec wheel facing "rare issue"          https://www.twitch.tv/ohnepixel/clip/ExcitedExcitedHippoSquadGoals-_oF_yyBbHpHmJxdR  2026/05/25    0.4767  POSITIVE       POSITIVE
-17                                                                         Anxstasia gets sent a disturbing video              https://www.twitch.tv/waterlynn/clip/SassyAbrasiveBunnyPrimeMe-KEFRiMDrW4mZjQ2v  2026/05/25   -0.5106  NEGATIVE       NEGATIVE
-18                                                                                          Millenium Falcon down  https://www.twitch.tv/dota2_paragon_ru/clip/SavoryWonderfulHedgehogGivePLZ-koBpW5aAIBiaPwRN  2026/05/25    0.0000  NEGATIVE       NEGATIVE
-19                                                                  Velcuz's whole van breaks down in Switzerland                                                              https://v.redd.it/3fmfcvpb2b3h1  2026/05/25    0.0000  NEGATIVE       NEGATIVE
-20                                            Velcuz's van breaks down once again on a highway in Swiss mountains            https://www.twitch.tv/velcuz/clip/TalentedFuriousCoffeeShadyLulu-C4swKonyfyP5oB0q  2026/05/25    0.0000  NEGATIVE       NEGATIVE
-21                                                                                            Noya's spinning cat        https://www.twitch.tv/noyayaya520/clip/TawdrySpunkyRaccoonPeteZaroll-pv-k9Gbmfr7N-Mcm  2026/05/25    0.0000  NEGATIVE       POSITIVE
-22                  Someone reported Jinnytty to the police for apparently being reckless on the roads in Romania                                                              https://v.redd.it/0h250twlla3h1  2026/05/25   -0.4019  NEGATIVE       NEGATIVE
-23                                                        Detune's Shirt got pulled during a ghost hunting stream                                                              https://v.redd.it/q9zc0b2t193h1  2026/05/25   -0.3182  NEGATIVE       NEGATIVE
-24                                                                                    Maki95 Bathroom Emergency 😂                                                              https://v.redd.it/6el8c2m7u83h1  2026/05/25   -0.3818  NEGATIVE       NEGATIVE
-25                                                                                CS Major winner ropz vs 60 bots                                                              https://v.redd.it/1li85x6mq83h1  2026/05/25    0.5859  POSITIVE       NEGATIVE
-26                                                                              Rae clutches a 1HP & a dream win:   https://www.twitch.tv/valkyrae/clip/UninterestedBovineBubbleteaBigBrother-o09XiWOaKMmLcMea  2026/05/25    0.7003  POSITIVE       POSITIVE
-27                                                                        TheTechBoy wants to eat curious George.                                                              https://v.redd.it/jhv5cg8da83h1  2026/05/25    0.3182  POSITIVE       POSITIVE
-28                                              Rae's protective Fatherly instincts kick in playing God of War 4:           https://www.twitch.tv/valkyrae/clip/PerfectGracefulYamTBTacoRight-TiQ5NcIU6KqtktUK  2026/05/25   -0.2500  NEGATIVE       POSITIVE
-29  Valkyrae says she sometimes struggles to find the point of working out because “we are all gonna die anyway”.                                                              https://v.redd.it/2zztxview73h1  2026/05/25   -0.7506  NEGATIVE       NEGATIVE
-30                                   Hasan claims he filed the necessary documentation with OFAC before Cuba trip                                                              https://v.redd.it/t86otjjh473h1  2026/05/25    0.0000  NEGATIVE       NEGATIVE
-31                                                                                      Tyler1 Plays Bullet Chess                                                              https://v.redd.it/36ao30bxg63h1  2026/05/25    0.2500  POSITIVE       POSITIVE
+                                                                                       title                                                                                                   url        date  compound   SA_nltk SA_distilibert
+0                                                     Jynxzi gets his first pentakill in LoL                                                                       https://v.redd.it/ge67ckezkk3h1  2026/05/26    0.4215  POSITIVE       NEGATIVE
+1                                       Jynxzi gets his first Pentakill in League of Legends                     https://www.twitch.tv/jynxzi/clip/PiliableSpotlessGrassKappaRoss-Dx32EN6HCwpzMgfW  2026/05/26    0.0000  NEGATIVE       POSITIVE
+2       Dantes explains League of Legends to Jynxzi using Asmongold’s politics as an analogy                                                                       https://v.redd.it/crmhy999ek3h1  2026/05/26    0.0000  NEGATIVE       POSITIVE
+3                                                                Shroud with the CINEMA mode                         https://www.twitch.tv/shroud/clip/SteamyIcySrirachaTheRinger-KMb9JmDj-ItwNDe9  2026/05/26    0.0000  NEGATIVE       NEGATIVE
+4                                                         Cinna and Tylil get swarmed in NYC                https://www.twitch.tv/cinna/clip/ObservantImportantPhonePhilosoraptor--EE_K0dbzDK4hi5X  2026/05/26    0.0000  NEGATIVE       POSITIVE
+5                                  Destiny Catches Hasan Signal Boosting Niche Destiny Drama                                                                       https://v.redd.it/9dyvu6oa6k3h1  2026/05/26    0.3400  POSITIVE       POSITIVE
+6                                             Shroud's reaction to Esfand finding him ingame                      https://www.twitch.tv/shroud/clip/ObliqueDaintyPeppermintNomNom-LiYFemF3lbBBIFBY  2026/05/26    0.0000  NEGATIVE       POSITIVE
+7                                                     xQc trades up a 7K Gamma Doppler Knife                        https://www.twitch.tv/xqc/clip/CleverArtisticTurtleKappaPride-CSHRzQez8EfVsK5c  2026/05/26    0.0000  NEGATIVE       NEGATIVE
+8                                                                Shroud finds himself in 007                                                                       https://v.redd.it/5qx1gle0vj3h1  2026/05/26    0.0000  NEGATIVE       POSITIVE
+9                                                          Lirik finds wild Shroud in Africa                            https://www.twitch.tv/lirik/clip/RacyAdorableWasabiLitFam--4LwwxFJkWsLo2zc  2026/05/26    0.0000  NEGATIVE       POSITIVE
+10                                                                        Lirik finds shroud                          https://www.twitch.tv/lirik/clip/SlickSpotlessSnoodBabyRage-vT-xeba825UFuwRz  2026/05/26    0.0000  NEGATIVE       NEGATIVE
+11                                                                   shroud takes a hot bite                          https://www.twitch.tv/shroud/clip/HonestPlacidBadgerPRChase-cFUAOuBqecZ_7EgG  2026/05/26    0.0000  NEGATIVE       POSITIVE
+12                                     Eric still refuses to address it, even after all that                                                                       https://v.redd.it/f67wqev6gj3h1  2026/05/26    0.0000  NEGATIVE       NEGATIVE
+13                                                              CrimsonCasts vs Ruetoo drama                                                                       https://v.redd.it/meepwlzp9j3h1  2026/05/26    0.0000  NEGATIVE       NEGATIVE
+14                                                  Odablock gets harassed by car saleswoman                                                                       https://v.redd.it/h7ovigga3j3h1  2026/05/26   -0.5423  NEGATIVE       NEGATIVE
+15  Twitch's Head of Global Entertainment Marketing, Kira Karlstrom, is leaving the company.                                        https://twitter.com/zachbussey/status/2059311890241647101?s=20  2026/05/26    0.4215  POSITIVE       NEGATIVE
+16           StudyTme Pukes Mid Air during paragliding compitation (Full Funny Conversation)                                                                       https://v.redd.it/8k09hq1u8i3h1  2026/05/26    0.0000  NEGATIVE       NEGATIVE
+17                      Destiny laughs as Hasan tells a chatter he doesn't flaunt his wealth                                                                       https://v.redd.it/duppbz2jwh3h1  2026/05/26    0.1461  NEGATIVE       POSITIVE
+18                  Jinny assaulted. Guy kissed and licked her hand and then smacked her ass             https://www.twitch.tv/jinnytty/clip/TangentialRamshackleBasenjiPastaThat-E2g9jonOKzL2oTFd  2026/05/26   -0.2732  NEGATIVE       NEGATIVE
+19                                                           Cook close call with paraglider                            https://www.twitch.tv/cooksux/clip/SwissVastDolphinWTRuck-NRbkQsuU6cAc_TgW  2026/05/26    0.0000  NEGATIVE       POSITIVE
+20                                                     Preach - gta:sa radio breaks 4th wall                     https://www.twitch.tv/preachlfw/clip/BitterFurryMouseGingerPower-pgP1WgpqGOBEmH6J  2026/05/26    0.0000  NEGATIVE       NEGATIVE
+21                      Streamer "XOIBW" Invents New Tongue Twister While Playing Subnautica  https://www.twitch.tv/xoibw/clip/ArbitraryBetterHorsePogChamp-yoij_GkXasdCPRbw?filter=clips&range=7d  2026/05/26    0.2023  POSITIVE       POSITIVE
+22                   League streamer lol_kovi says wow is easy then wipes raid and denies it                        https://www.twitch.tv/lol_kovi/clip/WealthyElatedCrabPlanking-ik3elxOWuW6dnw8i  2026/05/26    0.5994  POSITIVE       NEGATIVE
+23                                     Matimi0 gets baited with old May 26 GTA6 release date                                                                       https://v.redd.it/c2ecprjnkf3h1  2026/05/26    0.0000  NEGATIVE       NEGATIVE
+24          Professional Minecraft Player 'nofearr1337' invents new speedrunning technique 🤯                    https://www.twitch.tv/nofearr1337/clip/GrossFlirtyCoyoteTwitchRPG-5XoE3vXPicQ8j8LV  2026/05/26    0.0000  NEGATIVE       POSITIVE
+25                                              CaseOh discusses Kick's marketing strategies                  https://www.twitch.tv/caseoh_/clip/ConfidentTentativeBearHassanChop-3xCcOHA8WhtHbJR2  2026/05/26    0.0000  NEGATIVE       POSITIVE
+26                                                       pelokio - VTuber sings ♂Chandelier♂                       https://www.twitch.tv/pelokio/clip/StrongSecretiveLemurVoteNay-7C_tQLIZl1-vhNAo  2026/05/26    0.0000  NEGATIVE       NEGATIVE
+27                                                              Extraemily goes half mustard                 https://www.twitch.tv/extraemily/clip/WealthyGlutenFreeSlothJebaited-1GM9HKBikX67erWH  2026/05/26    0.0000  NEGATIVE       NEGATIVE
+28                            Ac7ionman goes off on Ice Poseidon for trying to embarrass him                                      https://kick.com/ac7ionman/clips/clip_01KSGVXY58TY98MA4NHMDSCZ6V  2026/05/26   -0.2960  NEGATIVE       NEGATIVE
+29                                                                       FF Cyr 1989 Cookout                       https://www.twitch.tv/cyr/clip/TransparentTenuousWalletDogFace-dWGMwOr9ymJ9R45c  2026/05/26    0.5473  POSITIVE       POSITIVE
+30                                       frostprime - devour the tower comes down to seconds                   https://www.twitch.tv/frostprime/clip/PiercingSmellyChickpeaRlyTho-1tWTdTk8mq9P24MW  2026/05/26    0.0000  NEGATIVE       NEGATIVE
+31                                                                Darth Jynxzi is Feeling It                                                                       https://v.redd.it/6h8ml5ecrd3h1  2026/05/26    0.1280  NEGATIVE       POSITIVE
+32                                                               Destiny discovers The Chart                                                                       https://v.redd.it/0kl59bvvjd3h1  2026/05/26    0.0000  NEGATIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
 NEGATIVE    27
-POSITIVE     5
+POSITIVE     6
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    19
-POSITIVE    13
+NEGATIVE    17
+POSITIVE    16
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
