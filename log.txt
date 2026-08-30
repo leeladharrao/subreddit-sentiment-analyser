@@ -1,37 +1,40 @@
 <!-- posts starts -->
-                                                                                                                                                 title                                                                                            url        date  compound   SA_nltk SA_distilibert
-0                                                                                                               German cops force Esfand to end stream              https://www.twitch.tv/esfandtv/clip/IntelligentColdPlumberOpieOP-upK-d9nvXGO3UoMe  2026/08/28    0.0000  NEGATIVE       POSITIVE
-1                                                                                           Idubbzz new video about how Ethan Klein is still suing him                                                                https://v.redd.it/7cgwrjvg47mh1  2026/08/28   -0.2732  NEGATIVE       NEGATIVE
-2                                        JustxGarrett and mickysinner open the same MTG rare at the same time and celebrate the only way they know how             https://www.twitch.tv/mickysinner/clip/BoxyFlaccidHedgehogCoolCat-61IIQxQKKdAD2Xyn  2026/08/28    0.5719  POSITIVE       POSITIVE
-3                                                                           After only 288 deaths, NMPLOL the worst gamer in OTK defeats Tree Sentinel                                                                https://v.redd.it/nwdlvzjdy5mh1  2026/08/28   -0.7506  NEGATIVE       NEGATIVE
-4                                                                                                                          Quin69's religion tier list            https://www.twitch.tv/quin69/clip/UglyNastyWasabiEagleEye-WaQgyB1h-hUO_Rov?range=7d  2026/08/28    0.0000  NEGATIVE       NEGATIVE
-5   🚨Twitch Streamer Yonnajay Threatens Tow Truck Driver With Lawsuit After Her Rented Ice Cream Truck Gets Towed For illegal Parking! 🍦👀 (Full Video)                                                                https://v.redd.it/0472m3uss4mh1  2026/08/28   -0.8122  NEGATIVE       NEGATIVE
-6                                                                                                                the least popular cosplayer in Taiwan      https://www.twitch.tv/noyayaya520/clip/TentativeHelpfulKathyThisIsSparta-i015dLY9OWE6T__p  2026/08/28   -0.3252  NEGATIVE       NEGATIVE
-7                                                                                                  ClaRawrrXD is flagged on TikTok for substance abuse                                                                https://v.redd.it/dh0iqgtoq4mh1  2026/08/28   -0.6369  NEGATIVE       NEGATIVE
-8                                                                                          Streamer BennyMack completely misses the stairs and eats it                                                                https://v.redd.it/q4rm3rzzk4mh1  2026/08/28   -0.2944  NEGATIVE       NEGATIVE
-9                                                                                                        Ice lets viewers test his new streaming robot                                                                https://v.redd.it/zch30t3et3mh1  2026/08/28    0.0000  NEGATIVE       NEGATIVE
-10                                              xQc forced by Twitch to take down vod due to GTA yet multiple other large streamer's vods are still up                                                                https://v.redd.it/kgbsv4fdx1mh1  2026/08/28   -0.4588  NEGATIVE       NEGATIVE
-11                                                                                                              KICK Streamer Agreepah Caught Snorting                                                                https://v.redd.it/82gz1mbst1mh1  2026/08/28    0.0000  NEGATIVE       NEGATIVE
-12                                 Asmongold on the Nodusfall drama “I don’t care if the assets are copied or stolen, I only care if the game is good”                               https://kick.com/asmongold/clips/clip_01M12V5FNMA3FC9WPKEJEXCP2A  2026/08/28    0.5994  POSITIVE       NEGATIVE
-13                                                                                                                             Awkward Roommate Moment  https://www.twitch.tv/crayator/clip/PoorEphemeralSnoodItsBoshyTime-8V6hqdZ6vDT0jJ3c?range=30d  2026/08/28   -0.1531  NEGATIVE       NEGATIVE
-14                                                                                                                          Explore the new 2K27 city!                                                                https://v.redd.it/8wgdi3qxy0mh1  2026/08/28    0.0000  NEGATIVE       POSITIVE
-15                                                                                                                     Maya Higa got engaged in alaska                                                       https://www.instagram.com/p/DckLONYm64I/  2026/08/28    0.4019  POSITIVE       POSITIVE
-16                                                                                MurderCrumpet gets OneGuy'd and has an epic half hour long crash-out           https://www.twitch.tv/murdercrumpet/clip/DoubtfulUglyWallabyTakeNRG-JXFwIwrclOzMs9xG  2026/08/28    0.0000  NEGATIVE       NEGATIVE
-17                                                          Asmongold on GTA 6 "I'm kind of worried, I can't see how it's gonna meet the expectations"                               https://kick.com/asmongold/clips/clip_01M127N8CPT0XWRD09FKKYSWCE  2026/08/28   -0.3597  NEGATIVE       NEGATIVE
-18                                                      Kick Streamer LuvvRoD Sprays Lysol Disinfectant Into His Mouth To Show His Love For SweaterGxd                                                                https://v.redd.it/rofxnk2hf0mh1  2026/08/28    0.6369  POSITIVE       NEGATIVE
-19                                                                                   LillieNue is 5' 3'' and build like a set of disposable chopsticks                                                                https://v.redd.it/j5lf6pznb0mh1  2026/08/28    0.3612  POSITIVE       NEGATIVE
+                                                                             title                                                                                           url        date  compound   SA_nltk SA_distilibert
+0                                               MOONMOON is literally Jesus Christ                                                               https://v.redd.it/622tj5k1iemh1  2026/08/29    0.0000  NEGATIVE       NEGATIVE
+1                          Kick streamer ChickenAndy meets a Crusaders.gg streamer                                                               https://v.redd.it/3aqjgnkzeemh1  2026/08/29    0.0000  NEGATIVE       POSITIVE
+2                     Hachu isn't impressed with the mystery meat on her dumplings                     https://www.twitch.tv/hachubby/clip/SuaveFlirtyApeDuDudu-D-ipw200bXaBlj8T  2026/08/29   -0.4318  NEGATIVE       NEGATIVE
+3                                  Cook finds out why some people travel to Mexico            https://www.twitch.tv/cooksux/clip/BlazingArbitraryShieldTebowing-Fg0RSvM7znrPAxTG  2026/08/29    0.0000  NEGATIVE       NEGATIVE
+4                                                     Lirik's elite fighting force                      https://www.twitch.tv/lirik/clip/FastFlirtyKuduCurseLit-YKucqxh7wTO-wvMy  2026/08/29   -0.3612  NEGATIVE       POSITIVE
+5                                          Forsen outsources his reactions to chat                     https://www.twitch.tv/forsen/clip/CloudyCovertDillDatBoi-3ezWdRZd6ZlyWjqz  2026/08/29    0.0000  NEGATIVE       NEGATIVE
+6                                        MurderCrumpet's friends kneeling in sync.    https://www.twitch.tv/murdercrumpet/clip/HedonisticTawdryPeachTBTacoRight-r-wc-QXtgtMrXwUR  2026/08/29    0.4767  POSITIVE       POSITIVE
+7                                              Presenter Doesn't Realize Mic Is On            https://www.twitch.tv/pokemonxp/clip/AmazonianSaltyOysterBabyRage-k8hl3xCwKktAkrHj  2026/08/29    0.0000  NEGATIVE       NEGATIVE
+8   nordsley completes Getting Over It after streaming nonstop for almost 33 hours         https://www.twitch.tv/nordsley/clip/PolishedPreciousWolfAMPTropPunch-kRLgFuJG8vaCydHX  2026/08/29    0.0000  NEGATIVE       NEGATIVE
+9                                     Forsen witnesses Old Snake's Cigarette Strat              https://www.twitch.tv/forsen/clip/CredulousSmallCroissantNomNom-MBGm4lEEm8-jzUBo  2026/08/29    0.0000  NEGATIVE       NEGATIVE
+10                                  Lirik Experiences the Horror of Modern Warfare              https://www.twitch.tv/lirik/clip/ThoughtfulPoorNarwhalPastaThat-xIb58jlnHviYYg69  2026/08/29   -0.7096  NEGATIVE       POSITIVE
+11                                                               Jake is being fed    https://www.twitch.tv/jakenbakelive/clip/SpikyAssiduousCheesecakeTooSpicy-MQDTpgLXS4Bn4IE0  2026/08/29    0.0000  NEGATIVE       NEGATIVE
+12                                                   Elina what was that? GAMESCOM                                                               https://v.redd.it/xqx9rp5yocmh1  2026/08/29    0.0000  NEGATIVE       NEGATIVE
+13                                                         Hasan remembers NoPixel                                                               https://v.redd.it/cw60eat1tamh1  2026/08/29    0.0000  NEGATIVE       POSITIVE
+14                               JustKeth surprise breast exam of co-streamer ppim                                                               https://v.redd.it/fk6mqakynamh1  2026/08/29    0.2732  POSITIVE       NEGATIVE
+15                             EmiliaCosplay attempts the infamous Rap God segment  https://www.twitch.tv/emiliacosplay/clip/TriangularBoldBadgerNerfRedBlaster-GSvuji5o8Pn0D4n9  2026/08/29    0.2732  POSITIVE       NEGATIVE
+16                     Cinna becomes the current most subbed to streamer on twitch                            https://www.twitch.tv/cinna/clip/KindRudeYakANELE-Vj1NkVVZbt6YtYse  2026/08/29    0.0000  NEGATIVE       NEGATIVE
+17                        Sunny notices something about streamers parking location                                                               https://v.redd.it/89ntxyute8mh1  2026/08/29    0.4215  POSITIVE       POSITIVE
+18                                             Kai and Rakai unmask super villains                                                               https://v.redd.it/yu63l72jc8mh1  2026/08/29   -0.1280  NEGATIVE       POSITIVE
+19                                                        Kai Cenat finds La Peace                                                               https://v.redd.it/fzx3hz8878mh1  2026/08/29    0.5423  POSITIVE       POSITIVE
+20                                           AdrianahLee does a Sykkuno impression                                                               https://v.redd.it/bqsysl4f48mh1  2026/08/29    0.2263  POSITIVE       POSITIVE
+21          N3on recreates scene featuring his lookalike from recent GTA 6 trailer                                                               https://v.redd.it/yol4s99fk7mh1  2026/08/29    0.0000  NEGATIVE       POSITIVE
+22                   Mexican Andy harasses woman in Japan and gets banned off Kick                                                               https://v.redd.it/6sfhe9sak7mh1  2026/08/29   -0.7579  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    15
-POSITIVE     5
+NEGATIVE    17
+POSITIVE     6
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    16
-POSITIVE     4
+NEGATIVE    13
+POSITIVE    10
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
