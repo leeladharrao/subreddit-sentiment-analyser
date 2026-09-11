@@ -1,35 +1,42 @@
 <!-- posts starts -->
-                                                                                                                                             title                                                                                             url        date  compound   SA_nltk SA_distilibert
-0   Asmongold says AI doesn’t use a lot of water and says that it’s propaganda created by people who are scared of AI taking their jobs or careers                                https://kick.com/asmongold/clips/clip_01M212QCAJA6E7WVMJV1ZCB88S  2026/09/09   -0.4404  NEGATIVE       NEGATIVE
-1                                                                                  Hasan makes an appearance at the Republicans Midterm Convention                                                                 https://v.redd.it/iftvgqirnkoh1  2026/09/09    0.0000  NEGATIVE       POSITIVE
-2                                                          BLUEFACE has already FOUND his NEW GIRLFRIEND just one day after KICKING NEVEAH OUT. 😳💔                                                                 https://v.redd.it/qokf3r3wfkoh1  2026/09/09    0.0000  NEGATIVE       NEGATIVE
-3                                                                                                                   CookSux is lost in translation                    https://www.twitch.tv/cooksux/clip/ProudSpeedyYakinikuFloof-jYVPP7VEBSJCGNXK  2026/09/09   -0.3182  NEGATIVE       NEGATIVE
-4                                                                                                                Forsen has a good use case for AI                                                                 https://v.redd.it/gbhb7hhh8joh1  2026/09/09    0.4404  POSITIVE       POSITIVE
-5                                                                             Destiny opens up about how snarkers have targeted him and his family                                                                 https://v.redd.it/092kgc19nioh1  2026/09/09    0.0000  NEGATIVE       POSITIVE
-6                                                                                                 Virtual Idol Suisei performs at K Arena Yokohama                                                                 https://v.redd.it/kqubvg5wcioh1  2026/09/09    0.0000  NEGATIVE       POSITIVE
-7                                                                  Destiny’s finale take on the Lindsay Clancy case after watching the whole trial                                                                 https://v.redd.it/qektm7mx1hoh1  2026/09/09    0.0000  NEGATIVE       POSITIVE
-8                                                      BlackAssDave disrespects his girlfriend in public and a stranger steps in and beats his ass                                                                 https://v.redd.it/sicy297zfgoh1  2026/09/09   -0.5423  NEGATIVE       NEGATIVE
-9                                                           Slovak courier almost had a car accident while during the work shift for Wolt platform                                                                 https://v.redd.it/udm83hmrweoh1  2026/09/09   -0.4284  NEGATIVE       NEGATIVE
-10                                                                                          Lirik suffers Michael Myers' most brutal execution yet               https://www.twitch.tv/lirik/clip/ObservantDependableYakinikuUWot-b5ISyx7BIq-wTpDJ  2026/09/09   -0.8173  NEGATIVE       NEGATIVE
-11                                                                                                                    Ricky Borby takes his last L              https://www.twitch.tv/erobb221/clip/ManlyInterestingMooseTinyFace-60QpN7OtXgVExMgS  2026/09/09    0.0000  NEGATIVE       POSITIVE
-12                                                                                                     Robert Spowylamywanowski Arrvies in NoPixel          https://www.twitch.tv/roflgator/clip/WrongMiniatureWalletStinkyCheese-SMzunUx8fN00rM-Q  2026/09/09    0.0000  NEGATIVE       NEGATIVE
-13                                                                                                                      Slasher from the top ropes                                           https://x.com/Slasher/status/2097500260251664469?s=20  2026/09/09    0.2023  POSITIVE       NEGATIVE
-14                                                                                                                 Aris gives chat a reality check  https://www.twitch.tv/avoidingthepuddle/clip/ZealousRelentlessSwallowPogChamp-KnN8qRMZlBjAl3El  2026/09/09    0.0000  NEGATIVE       NEGATIVE
-15                                                                                    Blueface Breaks Up With Baby Mama Nevaeh Akira On Livestream                                                                 https://v.redd.it/tdjtv2s89eoh1  2026/09/09    0.0000  NEGATIVE       NEGATIVE
-16                            xQc reacts to N3on announcing he will be AI streaming "By clankers, for clankers. From botting to becoming the bot."                                      https://kick.com/xqc/clips/clip_01M21PCS815RXFFFS34169XY5B  2026/09/09    0.0000  NEGATIVE       NEGATIVE
-17                                                                                           Quantum gets griefed by the LoL client (Riot classic)                       https://www.twitch.tv/quantum/clip/ModernMoralTofuSSSsss-nKkgJvb1viuzERQw  2026/09/09    0.4215  POSITIVE       NEGATIVE
+                                                                                                                   title                                                                                 url        date  compound   SA_nltk SA_distilibert
+0                                                        Moxie gets a surprise freestyle on her first stream in Colombia                                                     https://v.redd.it/4wapz6ee6soh1  2026/09/10    0.4215  POSITIVE       POSITIVE
+1                                     LTG laughs at new AI video of him hunting down and shooting Black people for sport                                                     https://v.redd.it/hvutt5cu2soh1  2026/09/10    0.4939  POSITIVE       POSITIVE
+2                                                                        God gamer protected by bajs "SPECIAL" forces...        https://www.twitch.tv/forsen/clip/FriendlySoftWaterMikeHogu-KitZfQF8tPsSobv2  2026/09/10    0.6124  POSITIVE       NEGATIVE
+3                                                                                       Jean Paul had a rush hour moment                                                     https://v.redd.it/gsazigi5aroh1  2026/09/10    0.0000  NEGATIVE       POSITIVE
+4                           Hasan ends his stream after his internet, monitor, microphone, and capture card stop working                                                     https://v.redd.it/51emyp1q6roh1  2026/09/10   -0.2960  NEGATIVE       NEGATIVE
+5   Destiny on one of his orbiters being into lolicon (drawn CSAM): “It’s 2026. Why not just be a pedophile. Who cares?”                                                     https://v.redd.it/q4fap4275roh1  2026/09/10    0.0000  NEGATIVE       NEGATIVE
+6                                            LowTierGod shames a single Black mother and her family with racial insults.                                                     https://v.redd.it/u4di112ntqoh1  2026/09/10   -0.6705  NEGATIVE       NEGATIVE
+7                                                                                                  RAT IN XQC'S FOOD BOX         https://www.twitch.tv/xqc/clip/ThankfulSingleDiscOMGScoots-OP4-z52CzhAxpDaZ  2026/09/10    0.0000  NEGATIVE       NEGATIVE
+8                                                           BonsaiBroz getting booted after waiting in queue for an hour      https://www.twitch.tv/bonsaibroz/clip/SleepySoftBaconPipeHype-YVVwgNJw1grQYhez  2026/09/10    0.0000  NEGATIVE       NEGATIVE
+9                                                 Blukitsune9 pops herself in the face while preparing for upcoming move                                                     https://v.redd.it/wz70fizv8qoh1  2026/09/10    0.0000  NEGATIVE       NEGATIVE
+10                                                                                        NL gets a +2 by hitting the -2       https://www.twitch.tv/northernlion/clip/LightOpenPizzaAliens-Z2fhSQGmzCNpYSN7  2026/09/10    0.0000  NEGATIVE       POSITIVE
+11                                                                      zoomer attempts to name country bordering brazil  https://www.twitch.tv/aitchiv/clip/BlushingBitterSoybeanAllenHuhu-H0nFyXgbrE1UzC-G  2026/09/10    0.0000  NEGATIVE       NEGATIVE
+12                                                           ClarawrrXD stream restricted on TikTok for playing Onimusha                                                     https://v.redd.it/rmex6fxntpoh1  2026/09/10   -0.2023  NEGATIVE       NEGATIVE
+13                                                                                              Forsen is playing to win                                                     https://v.redd.it/tchbymlhspoh1  2026/09/10    0.6808  POSITIVE       POSITIVE
+14                  Asmongold comments on Steven Bonnell recalling how people have harrassed him and his parents at home                                                     https://v.redd.it/1ouz4rlfmpoh1  2026/09/10    0.0000  NEGATIVE       POSITIVE
+15                           Jungkook of BTS sometimes stays up late at night streaming horror games and scaring himself                                                     https://v.redd.it/qy962ba1nnoh1  2026/09/10   -0.7650  NEGATIVE       NEGATIVE
+16                                                                                    Tesla owner refuels his work truck                                                     https://v.redd.it/8d2x8ziydnoh1  2026/09/10    0.0000  NEGATIVE       NEGATIVE
+17                                                                                How Hasan Piker talks to his employees                                                     https://v.redd.it/4wxfr6aztmoh1  2026/09/10    0.0000  NEGATIVE       POSITIVE
+18                                                                      xQc Roleplays as Hasan Piker in NoPixel 5 GTA RP         https://www.twitch.tv/xqc/clip/HumbleEsteemedHamCeilingCat-2YlPL4RUjpf2sdBE  2026/09/10    0.0000  NEGATIVE       NEGATIVE
+19                                                            Chat goes wild as Xqc pronounced familiar word combination                                                     https://v.redd.it/740quu66amoh1  2026/09/10    0.0000  NEGATIVE       NEGATIVE
+20                              Asmongold reacts to the new Wolverine game "It's not looking good, it doesn't have aura"                    https://kick.com/asmongold/clips/clip_01M247YAQZZQ32FZD75NRN5A9J  2026/09/10   -0.3412  NEGATIVE       NEGATIVE
+21                                                                             Oh NO! Not my robot lawnmower! (RubenGKS)                                                     https://v.redd.it/0biyhxt9tloh1  2026/09/10   -0.5449  NEGATIVE       NEGATIVE
+22                                                                              Asmon says being a women is a disability                                                     https://v.redd.it/jmh4fv65qloh1  2026/09/10    0.0000  NEGATIVE       NEGATIVE
+23                                                    xQc says Apple has fallen behind on innovation with the iPhone Duo                          https://kick.com/xqc/clips/clip_01M248W9GR8Z9PTDE048QDVH5V  2026/09/10    0.0258  NEGATIVE       NEGATIVE
+24                                                                                                        What a classic                                                     https://v.redd.it/13o037ln5loh1  2026/09/10    0.0000  NEGATIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    15
-POSITIVE     3
+NEGATIVE    21
+POSITIVE     4
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    12
-POSITIVE     6
+NEGATIVE    17
+POSITIVE     8
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
