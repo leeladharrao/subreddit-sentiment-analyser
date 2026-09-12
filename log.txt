@@ -1,42 +1,50 @@
 <!-- posts starts -->
-                                                                                                                   title                                                                                 url        date  compound   SA_nltk SA_distilibert
-0                                                        Moxie gets a surprise freestyle on her first stream in Colombia                                                     https://v.redd.it/4wapz6ee6soh1  2026/09/10    0.4215  POSITIVE       POSITIVE
-1                                     LTG laughs at new AI video of him hunting down and shooting Black people for sport                                                     https://v.redd.it/hvutt5cu2soh1  2026/09/10    0.4939  POSITIVE       POSITIVE
-2                                                                        God gamer protected by bajs "SPECIAL" forces...        https://www.twitch.tv/forsen/clip/FriendlySoftWaterMikeHogu-KitZfQF8tPsSobv2  2026/09/10    0.6124  POSITIVE       NEGATIVE
-3                                                                                       Jean Paul had a rush hour moment                                                     https://v.redd.it/gsazigi5aroh1  2026/09/10    0.0000  NEGATIVE       POSITIVE
-4                           Hasan ends his stream after his internet, monitor, microphone, and capture card stop working                                                     https://v.redd.it/51emyp1q6roh1  2026/09/10   -0.2960  NEGATIVE       NEGATIVE
-5   Destiny on one of his orbiters being into lolicon (drawn CSAM): “It’s 2026. Why not just be a pedophile. Who cares?”                                                     https://v.redd.it/q4fap4275roh1  2026/09/10    0.0000  NEGATIVE       NEGATIVE
-6                                            LowTierGod shames a single Black mother and her family with racial insults.                                                     https://v.redd.it/u4di112ntqoh1  2026/09/10   -0.6705  NEGATIVE       NEGATIVE
-7                                                                                                  RAT IN XQC'S FOOD BOX         https://www.twitch.tv/xqc/clip/ThankfulSingleDiscOMGScoots-OP4-z52CzhAxpDaZ  2026/09/10    0.0000  NEGATIVE       NEGATIVE
-8                                                           BonsaiBroz getting booted after waiting in queue for an hour      https://www.twitch.tv/bonsaibroz/clip/SleepySoftBaconPipeHype-YVVwgNJw1grQYhez  2026/09/10    0.0000  NEGATIVE       NEGATIVE
-9                                                 Blukitsune9 pops herself in the face while preparing for upcoming move                                                     https://v.redd.it/wz70fizv8qoh1  2026/09/10    0.0000  NEGATIVE       NEGATIVE
-10                                                                                        NL gets a +2 by hitting the -2       https://www.twitch.tv/northernlion/clip/LightOpenPizzaAliens-Z2fhSQGmzCNpYSN7  2026/09/10    0.0000  NEGATIVE       POSITIVE
-11                                                                      zoomer attempts to name country bordering brazil  https://www.twitch.tv/aitchiv/clip/BlushingBitterSoybeanAllenHuhu-H0nFyXgbrE1UzC-G  2026/09/10    0.0000  NEGATIVE       NEGATIVE
-12                                                           ClarawrrXD stream restricted on TikTok for playing Onimusha                                                     https://v.redd.it/rmex6fxntpoh1  2026/09/10   -0.2023  NEGATIVE       NEGATIVE
-13                                                                                              Forsen is playing to win                                                     https://v.redd.it/tchbymlhspoh1  2026/09/10    0.6808  POSITIVE       POSITIVE
-14                  Asmongold comments on Steven Bonnell recalling how people have harrassed him and his parents at home                                                     https://v.redd.it/1ouz4rlfmpoh1  2026/09/10    0.0000  NEGATIVE       POSITIVE
-15                           Jungkook of BTS sometimes stays up late at night streaming horror games and scaring himself                                                     https://v.redd.it/qy962ba1nnoh1  2026/09/10   -0.7650  NEGATIVE       NEGATIVE
-16                                                                                    Tesla owner refuels his work truck                                                     https://v.redd.it/8d2x8ziydnoh1  2026/09/10    0.0000  NEGATIVE       NEGATIVE
-17                                                                                How Hasan Piker talks to his employees                                                     https://v.redd.it/4wxfr6aztmoh1  2026/09/10    0.0000  NEGATIVE       POSITIVE
-18                                                                      xQc Roleplays as Hasan Piker in NoPixel 5 GTA RP         https://www.twitch.tv/xqc/clip/HumbleEsteemedHamCeilingCat-2YlPL4RUjpf2sdBE  2026/09/10    0.0000  NEGATIVE       NEGATIVE
-19                                                            Chat goes wild as Xqc pronounced familiar word combination                                                     https://v.redd.it/740quu66amoh1  2026/09/10    0.0000  NEGATIVE       NEGATIVE
-20                              Asmongold reacts to the new Wolverine game "It's not looking good, it doesn't have aura"                    https://kick.com/asmongold/clips/clip_01M247YAQZZQ32FZD75NRN5A9J  2026/09/10   -0.3412  NEGATIVE       NEGATIVE
-21                                                                             Oh NO! Not my robot lawnmower! (RubenGKS)                                                     https://v.redd.it/0biyhxt9tloh1  2026/09/10   -0.5449  NEGATIVE       NEGATIVE
-22                                                                              Asmon says being a women is a disability                                                     https://v.redd.it/jmh4fv65qloh1  2026/09/10    0.0000  NEGATIVE       NEGATIVE
-23                                                    xQc says Apple has fallen behind on innovation with the iPhone Duo                          https://kick.com/xqc/clips/clip_01M248W9GR8Z9PTDE048QDVH5V  2026/09/10    0.0258  NEGATIVE       NEGATIVE
-24                                                                                                        What a classic                                                     https://v.redd.it/13o037ln5loh1  2026/09/10    0.0000  NEGATIVE       POSITIVE
+                                                                                                     title                                                                                      url        date  compound   SA_nltk SA_distilibert
+0                         MeesterKeem - Shizit just got real! Racist ah lil dude, bro gets racist on Jason  https://www.twitch.tv/meesterkeem/clip/SpinelessEmpathicRutabagaAliens-iqvPdo9Dtw852fck  2026/09/11   -0.8516  NEGATIVE       NEGATIVE
+1                                     Shawn Fonteno and Ned Luke watching a classic Jimmy scene from GTA 5                                                          https://v.redd.it/iktzbwql1zoh1  2026/09/11    0.0000  NEGATIVE       POSITIVE
+2                                                                          Ishowspeed can't find John Cena                                                          https://v.redd.it/bmwyiwej0zoh1  2026/09/11    0.0000  NEGATIVE       NEGATIVE
+3                                           BlackAssDave films a classy 9/11 tribute outside NYC City Hall                                                          https://v.redd.it/6eqg2uw3jyoh1  2026/09/11    0.4404  POSITIVE       POSITIVE
+4                                                                  Northernlion tries Mama Liz's Chili Oil                                                          https://v.redd.it/c80likxzhyoh1  2026/09/11    0.0000  NEGATIVE       NEGATIVE
+5                                                                                Ricky's make a wish chase                                                          https://v.redd.it/2jt2t53ocyoh1  2026/09/11    0.4019  POSITIVE       POSITIVE
+6   Distortions team been running 2min matches in Halloween by speedrunning capturing the killer (WR 1:52)  https://www.twitch.tv/distortion2/clip/MotionlessCreativeDootFUNgineer-kA6mi8m7T-U8ZQl0  2026/09/11   -0.6486  NEGATIVE       NEGATIVE
+7                                                                              Cooksux visits Machu Picchu       https://www.twitch.tv/cooksux/clip/SarcasticTacitCourgetteWutFace-mXWd1_IlOZFql-BO  2026/09/11    0.0000  NEGATIVE       POSITIVE
+8                         Lowtiergod Crashes Out When Exposed Living with Another Man & Going Bald and Old                                                          https://v.redd.it/yqib02ys4yoh1  2026/09/11   -0.0772  NEGATIVE       NEGATIVE
+9                                                         Destiny struggles with double doors in Minecraft                                                          https://v.redd.it/zwwxpwor3yoh1  2026/09/11   -0.3612  NEGATIVE       NEGATIVE
+10                                                                                Bogg takes a closer look                                                          https://v.redd.it/vfb8boxl1yoh1  2026/09/11    0.0000  NEGATIVE       POSITIVE
+11                                                             This guy is saying "Jynxzi" 1 Million times                                                          https://v.redd.it/393llg701yoh1  2026/09/11    0.0000  NEGATIVE       NEGATIVE
+12                                                  Sigma trying to become a Super Saiyan doing Flappy Ups                                                          https://v.redd.it/f3o98u06txoh1  2026/09/11    0.5994  POSITIVE       NEGATIVE
+13        jstlk points out Destiny's dishonest tactic of grouping his critics with the people swatting him                                                          https://v.redd.it/5h00d7e0pxoh1  2026/09/11   -0.7096  NEGATIVE       NEGATIVE
+14                                                                             Forsen's WARDOGS experience                                                          https://v.redd.it/oa5cbur3cxoh1  2026/09/11    0.0000  NEGATIVE       POSITIVE
+15                                       ohnePixel gets hyped after setting a new top score of 7pp on osu!                                                          https://v.redd.it/eaxb8zym9xoh1  2026/09/11    0.2714  POSITIVE       NEGATIVE
+16                                           Cutesylovey teaches chat the alphabet game. Category: Animals     https://www.twitch.tv/cutesylovey/clip/CrepuscularTrappedOrangeMau5-uoqA1yGEbzUU4Xpf  2026/09/11    0.0000  NEGATIVE       POSITIVE
+17                                                                                   Surefour still got it                                                          https://v.redd.it/7b0ux725bwoh1  2026/09/11    0.0000  NEGATIVE       POSITIVE
+18                                                                           Summit gets Banned on Wardogs                                                          https://v.redd.it/qs0xk2jdwvoh1  2026/09/11   -0.4588  NEGATIVE       NEGATIVE
+19                                                                               Sips drops in, tactically  https://www.twitch.tv/sips_/clip/AltruisticEnthusiasticVampireTinyFace-JpeyfFcnQAJ47n0r  2026/09/11    0.0000  NEGATIVE       POSITIVE
+20                                            Harmless checked Roflgator's stream after he finished GTA RP            https://www.twitch.tv/harmless/clip/JoyousArborealRatDogFace-5EifMkwd4vBgxxd6  2026/09/11    0.2500  POSITIVE       NEGATIVE
+21                                                     Tyler1 bullies Macaiyla's 8 and 12 year old cousins                                                          https://v.redd.it/6jiaix9f7uoh1  2026/09/11    0.0000  NEGATIVE       POSITIVE
+22                                                                            Big Nut forgot her parachute         https://www.twitch.tv/imnauwt/clip/KathishAmusedEggplantTriHard-cQYg7hThLuIwJqqe  2026/09/11    0.0000  NEGATIVE       NEGATIVE
+23                                                                                      AM I FU*KING BLIND                                                          https://v.redd.it/y0w59v6zttoh1  2026/09/11   -0.4019  NEGATIVE       NEGATIVE
+24                               ExtraEmily finds a way to avoid hate threads while being behind the wheel   https://www.twitch.tv/extraemily/clip/FreezingSpeedyAsparagusDansGame-ohiicSlUi9ktazbc  2026/09/11   -0.7096  NEGATIVE       NEGATIVE
+25                                                                                  Ranting about the Cubs                                                          https://v.redd.it/62bn1mfmdtoh1  2026/09/11    0.0000  NEGATIVE       NEGATIVE
+26                                                                   Hasan opens up about his difficulties                                                          https://v.redd.it/tu95hpcn7toh1  2026/09/11   -0.2960  NEGATIVE       POSITIVE
+27                                                                                        Initiation Night     https://www.twitch.tv/nezst/clip/AmusedManlyKoalaEleGiggle-8-x8QjxRYPd_lBwT?range=7d  2026/09/11    0.0000  NEGATIVE       POSITIVE
+28                                                 Summit1G wipes entire streamer squad in Halo tournament                                                          https://v.redd.it/35za5e2krsoh1  2026/09/11    0.0000  NEGATIVE       NEGATIVE
+29               Asmongold comments on Destiny getting emotional over being targeted by online communities                         https://kick.com/asmongold/clips/clip_01M26XPF1E0PE23S1EGA12Q291  2026/09/11    0.1531  NEGATIVE       POSITIVE
+30                                                                          Lagma Sheen spotted in NoPixel         https://www.twitch.tv/xqc/clip/VenomousObeseSalamanderFutureMan--60Np2ZH09T6P0NH  2026/09/11    0.0000  NEGATIVE       NEGATIVE
+31                                 Destiny playing Minecraft while MrMouton struggles with a new language.                                                          https://v.redd.it/i0514v51asoh1  2026/09/11   -0.1779  NEGATIVE       NEGATIVE
+32              Streamer is hosting a “Charlie Kirkaversary” and man runs up to him with gun shaped object                                                          https://v.redd.it/g6brnrer7soh1  2026/09/11   -0.3400  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    21
-POSITIVE     4
+NEGATIVE    28
+POSITIVE     5
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    17
-POSITIVE     8
+NEGATIVE    20
+POSITIVE    13
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
