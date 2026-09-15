@@ -1,4 +1,4 @@
-nltk==3.8.1
+nltk==3.10.0
 pandas==2.1.4
 praw==7.7.1
 pytz==2023.3.post1
