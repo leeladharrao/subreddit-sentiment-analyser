@@ -1,42 +1,35 @@
 <!-- posts starts -->
-                                                                                     title                                                                                            url        date  compound   SA_nltk SA_distilibert
-0   NuclearPastaTom kills Consort Radahn after dying to him in Bingo Brawlers finals match          https://www.twitch.tv/captain_domo/clip/QuaintBlatantHerbsHumbleLife-zFkS6YYIOE04Wtkq  2026/09/19   -0.5423  NEGATIVE       NEGATIVE
-1                                                                 Asmon experiences findom                                                                https://v.redd.it/zpmssl5iojqh1  2026/09/19    0.0000  NEGATIVE       POSITIVE
-2                                                              Old man got caught poaching        https://www.twitch.tv/mrprinkly/clip/BitterViscousNostrilDoubleRainbow-HMEMrDQ1RuWtdnTS  2026/09/19    0.0000  NEGATIVE       NEGATIVE
-3                           Anjooneena's sweater from Korea has an interesting brand name:              https://www.twitch.tv/anjooneena/clip/WildGiftedShrimpYouDontSay-OVYNNxE6KrSMcZwz  2026/09/19    0.4019  POSITIVE       POSITIVE
-4                                     Toby from sidemen Gave ExtraEmily an Proper Trolling                                                                https://v.redd.it/mbgwv0bifjqh1  2026/09/19    0.0000  NEGATIVE       POSITIVE
-5                                                Jerma commits assault on a police officer         https://www.twitch.tv/jerma985/clip/FaithfulDependableSkirretCmonBruh-16Idu9UbL_zXj48h  2026/09/19   -0.5719  NEGATIVE       NEGATIVE
-6                                  Cutesylovey's designer bag before and after babysitting  https://www.twitch.tv/cutesylovey/clip/CourteousEnthusiasticConsoleAMPEnergy-7SoFSnTvEtTuUwte  2026/09/19    0.0000  NEGATIVE       POSITIVE
-7                                                    Forsen off-stream training paying off                                                                https://v.redd.it/6qf0osd51jqh1  2026/09/19    0.0000  NEGATIVE       NEGATIVE
-8                                                                       Friendly Londoners                  https://www.twitch.tv/extraemily/clip/BeautifulDeafPanMVGame-q0bCz7ZE2U06uqSc  2026/09/19    0.4939  POSITIVE       POSITIVE
-9             Dan Gheesling addresses community backlash after US Army sponsorship streams                                                                https://v.redd.it/ub63ul0csiqh1  2026/09/19    0.0000  NEGATIVE       NEGATIVE
-10                                              Forsen has relapsed back to snus addiction                                                                https://v.redd.it/2jloe6hbliqh1  2026/09/19    0.0000  NEGATIVE       NEGATIVE
-11                              Asmongold Pushes Back on People Saying He Used to Be Nicer                                                                https://v.redd.it/8gu1r8jmfiqh1  2026/09/19    0.4404  POSITIVE       NEGATIVE
-12                                          ExtraEmily finds a self deleter bruv in London                https://www.twitch.tv/extraemily/clip/PluckyBetterOtterTakeNRG-tcbuYqhEcpolaiHw  2026/09/19    0.0000  NEGATIVE       NEGATIVE
-13                                  Nmp talks about being accused of meta gaming in GTA RP               https://www.twitch.tv/nmplol/clip/MagnificentEvilStarlingOpieOP-58tU1mkGbcZNLZw9  2026/09/19   -0.2960  NEGATIVE       NEGATIVE
-14                                                Unicorn or Sea Horse? (failed capture) 😂   https://www.twitch.tv/anjelica_asa/clip/SpicyPowerfulParrotGivePLZ-KhSNdkYuslrf8FdJ?range=7d  2026/09/19    0.0000  NEGATIVE       NEGATIVE
-15                                                 T10Nat defends her Lactose Intolerance:                   https://www.twitch.tv/t10nat/clip/LitigiousSmallSushiDatBoi-FUAa_hp9gD41HPrD  2026/09/19    0.0000  NEGATIVE       NEGATIVE
-16                                                      ExtraEmily goes to a UK restaurant                                                                https://v.redd.it/telpijz7rhqh1  2026/09/19    0.0000  NEGATIVE       NEGATIVE
-17                                                                Donald Trump on HasanAbi                                                                https://v.redd.it/zjdhcdho0hqh1  2026/09/19    0.0000  NEGATIVE       POSITIVE
-18                                                          Marty got kidnapped by a local                                                                https://v.redd.it/8l3r9nousgqh1  2026/09/19    0.0000  NEGATIVE       NEGATIVE
-19                                   Chatter asks Dist to switch Wolverines poses 11 to 12       https://www.twitch.tv/distortion2/clip/InterestingCrunchyPoultryMingLee-jF_jZoYv1owJAWsG  2026/09/19    0.0000  NEGATIVE       NEGATIVE
-20                                       Lt_Custard unknowingly activates a Crash Junction              https://www.twitch.tv/lt_custard/clip/FitHedonisticTapirJebaited-8GlE9yvXtrtw0wqO  2026/09/19   -0.4019  NEGATIVE       NEGATIVE
-21                                    Ramasquamy talks about the horrifyng events of 09/17        https://clips.twitch.tv/PolishedFunnyGrasshopperDancingBanana-EVDssA3i2VrENL3h?range=7d  2026/09/19    0.0000  NEGATIVE       POSITIVE
-22                                                 Squeex chats with his would-be assassin                  https://www.twitch.tv/squeex/clip/SneakyMiniatureSowBabyRage-5c9HNmwgidmbKMef  2026/09/19    0.0000  NEGATIVE       NEGATIVE
-23                              MurderCrumpet demonstrates the best way to film a JO video         https://www.twitch.tv/murdercrumpet/clip/ReliableFrailSheepBloodTrail-TfO7o0toaF_Nxuxy  2026/09/19    0.6369  POSITIVE       POSITIVE
-24                                         Herold discovers odd censorship in WOW forever.                                                                https://v.redd.it/bz0frhbaqdqh1  2026/09/19    0.4995  POSITIVE       NEGATIVE
+                                                                                                                                                                                                     title                                                                                   url        date  compound   SA_nltk SA_distilibert
+0                                                                                                                                     SJC gets threatened by a gangster wannabe for mentioning Culver City                                                       https://v.redd.it/mjk672w5nqqh1  2026/09/20   -0.4588  NEGATIVE       NEGATIVE
+1   Lacy calls out Bonnie for saying * on stream, arguing that slipping up like that means she uses it regularly “I grew up around people who were black my entire life, and I was taught from a very y...                                                       https://v.redd.it/n03zzs6ysqqh1  2026/09/20   -0.5994  NEGATIVE       NEGATIVE
+2                                                                                                                                            Biggest upset at Rocket League World Championship semi-finals                                                       https://v.redd.it/6ayqdtn59qqh1  2026/09/20    0.0772  NEGATIVE       POSITIVE
+3                                                                                                                                                                              Katchii reads a name in WoW                                                       https://v.redd.it/jav2hxgc4qqh1  2026/09/20    0.5859  POSITIVE       POSITIVE
+4                                                                                                                                                                             Asmon reacts to Pokimane age                                                       https://v.redd.it/wdnuvtlnzpqh1  2026/09/20    0.0000  NEGATIVE       POSITIVE
+5                                                                                                                                                                       Olympic level hatewatching (Emiru)              https://www.twitch.tv/emiru/clip/WiseSilkyTurnipBudStar-PVJfGrQxRLwF9OXU  2026/09/20    0.0000  NEGATIVE       NEGATIVE
+6                                                                                                                                                Forsen watches "Little Dark Age - Cunny" w/ destiny cameo                                                       https://v.redd.it/hq7cnfl93pqh1  2026/09/20    0.0000  NEGATIVE       NEGATIVE
+7                                                                                                                                                                             Forsen on his snus addiction                                                       https://v.redd.it/39ghqc4ggoqh1  2026/09/20    0.0000  NEGATIVE       NEGATIVE
+8                                                                                                                                                                                  [xQc] crazy voice crack       https://www.twitch.tv/xqc/clip/WealthyMiniatureShrewBibleThump-ACk_H7U-1Qcwg8Pq  2026/09/20   -0.3400  NEGATIVE       POSITIVE
+9                                                                                                                                                       Donnie's gonna let this city know who he REALLY is                  https://clips.twitch.tv/EntertainingOilyHamsterBIRB-Yb-e8gZK8EAuFU6E  2026/09/20    0.0000  NEGATIVE       NEGATIVE
+10                                                                                                                                                                                 Bonnie rips it (again?)                                                       https://v.redd.it/jmyk5roufmqh1  2026/09/20    0.0000  NEGATIVE       NEGATIVE
+11                                                                                                                                                                  Moonmoon is recruited into the US Army        https://www.twitch.tv/moonmoon/clip/CoyMoistBorkDoubleRainbow-LlbWlGfgAs3fKaD5  2026/09/20    0.0000  NEGATIVE       NEGATIVE
+12                                                                                                             Crazy fight involving skateboard breaks out after Kick streamer cat calls man’s girlfriend.                                                       https://v.redd.it/ym3tr7cvwlqh1  2026/09/20   -0.6124  NEGATIVE       NEGATIVE
+13                                                                                                                                        Johnny Silverhand sent his followers to terrorize the Corpo Rats    https://www.twitch.tv/burn/clip/FurtiveDelightfulGarageRaccAttack-OCoU_QAz3mL7DRCU  2026/09/20   -0.6486  NEGATIVE       NEGATIVE
+14                                                                                                                                                            Rick Grinds explains the Grinding Dead virus  https://www.twitch.tv/burn/clip/IgnorantMiniatureAnteaterJonCarnage-jOeHqvCbWeji6DGG  2026/09/20   -0.6486  NEGATIVE       NEGATIVE
+15                                                                                                                                                                         Rick Grinds looking for his son                                                       https://v.redd.it/vizerpmbelqh1  2026/09/20    0.0000  NEGATIVE       NEGATIVE
+16                                                                                                                                    Marlon get handcuffed for "Possession of a knife" by the MetPoliceUK        https://www.twitch.tv/marlon/clip/TrappedSolidMonitorMikeHogu-jLBsci0HA513vwqF  2026/09/20    0.0000  NEGATIVE       NEGATIVE
+17                                                                                                                                                                           Jerma gets the next sidequest     https://www.twitch.tv/jerma985/clip/BumblingHandsomeEndiveOSfrog-D8uPklyOG2PljHfp  2026/09/20    0.0000  NEGATIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    20
-POSITIVE     5
+NEGATIVE    17
+POSITIVE     1
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    17
-POSITIVE     8
+NEGATIVE    13
+POSITIVE     5
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
