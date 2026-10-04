@@ -1,35 +1,35 @@
 <!-- posts starts -->
-                                                                                          title                                                                                             url        date  compound   SA_nltk SA_distilibert
-0                                                      Ostrich had other plans for Nicoco’s hat          https://www.twitch.tv/nicoco/clip/PlausibleDistinctMartenPeoplesChamp-iVG8Vvyvmb-wq2w0  2026/10/02    0.0000  NEGATIVE       NEGATIVE
-1   Yourragegaming talks about when Mr. Beast made him call Jynxzi to brag about his sub count.               https://www.twitch.tv/yourragegaming/clip/FrozenTardyCrowDogFace-LAM3YjqYsaYFuEsZ  2026/10/02    0.0000  NEGATIVE       NEGATIVE
-2                                           Vei was speechless after hearing hol_stream's voice                           https://www.twitch.tv/vei/clip/CuteBoxyTarsierOSfrog--tAoEzOvsbiuGAWr  2026/10/02    0.0000  NEGATIVE       NEGATIVE
-3                                                                        Vei has social anxiety                                                                 https://v.redd.it/gp7gl7pug4th1  2026/10/02   -0.1779  NEGATIVE       NEGATIVE
-4                                              Ray J Was Rushed To Hospital During A Livestream                                                                 https://v.redd.it/vllqawqn84th1  2026/10/02    0.0000  NEGATIVE       NEGATIVE
-5                                  Asmongold talks about lacari " He's just a gooner who cares"                                                                 https://v.redd.it/q4hakecq84th1  2026/10/02    0.4588  POSITIVE       NEGATIVE
-6                                                           Joey meets his biggest fan in China     https://www.twitch.tv/joeykaotyk/clip/TubularGiantJellyfishNerfBlueBlaster-h8Vu4U-P8E0C2qp-  2026/10/02    0.3182  POSITIVE       POSITIVE
-7                                                        Gappy tries to be a driving instructor  https://www.twitch.tv/gappyv/clip/GoldenEphemeralCurlewMrDestructoid-lLW4n4PXmRefLG5z?range=7d  2026/10/02    0.0000  NEGATIVE       NEGATIVE
-8                                                       Streamer Interjace falls and hits table                                                                 https://v.redd.it/zi6yem55g2th1  2026/10/02    0.0000  NEGATIVE       NEGATIVE
-9                                                           Mew2King Clutches Win Over Clankers                                                                 https://v.redd.it/4ttjv1j40ysh1  2026/10/02    0.5859  POSITIVE       POSITIVE
-10                                                  Marlon -  has a quick Shower on Kilamanjaro            https://www.twitch.tv/marlon/clip/GlutenFreeBovineRavenPeoplesChamp-JUm2TepO8zBo_KzC  2026/10/02    0.0000  NEGATIVE       POSITIVE
-11   Minecraft speedrunner Feinberg revealed how much he earned from content creation this year                                                                 https://v.redd.it/bqrdwf0e41th1  2026/10/02    0.2732  POSITIVE       POSITIVE
-12                                                                    vroom - delanie on Twitch                https://www.twitch.tv/delanie/clip/IntelligentMildDolphinOSfrog-VzeP6ZSSmQ-rd_Qh  2026/10/02    0.0000  NEGATIVE       NEGATIVE
-13                                      Lyndi drops a google doc on Ratedepicz titled ‘My side’                https://docs.google.com/document/d/1ttFd_qIFK2DkQv9fa5AhNyo2r20PxWQc/mobilebasic  2026/10/02    0.0000  NEGATIVE       NEGATIVE
-14                                                                 Peak GTA cop chase singalong                                                                 https://v.redd.it/cu783nm9oysh1  2026/10/02    0.0000  NEGATIVE       POSITIVE
-15                      DarkSydePhil accidentally reveals watching BBW JOI on his work computer                                                                 https://v.redd.it/e67tct4llysh1  2026/10/02   -0.3400  NEGATIVE       NEGATIVE
-16                                                       xQc recreates the iconic Pokimane clip                                      https://kick.com/xqc/clips/clip_01M3SXGX1A2VJ81RFM56NM8ZZQ  2026/10/02    0.0000  NEGATIVE       POSITIVE
-17                                                     Tyler1 carries his SF6 team to Hollywood                                                                 https://v.redd.it/1f0kmw13dysh1  2026/10/02    0.0000  NEGATIVE       POSITIVE
+                                                                                                         title                                                                                        url        date  compound   SA_nltk SA_distilibert
+0         Madi2Hotty is facing CRIMINAL CHARGES after getting into a fight with another streamer at Complexcon                                                            https://v.redd.it/nun4qqkj9cth1  2026/10/03   -0.8613  NEGATIVE       NEGATIVE
+1                                                                           streamer recites poem off the dome                                                            https://v.redd.it/3pa3l6fv3cth1  2026/10/03    0.0000  NEGATIVE       POSITIVE
+2                            RuneScape/ Jagex announce at RuneFest 2026 that "RuneScape 4" is in Development..                                                            https://v.redd.it/yrwidzfl3cth1  2026/10/03    0.0000  NEGATIVE       POSITIVE
+3                TheAustinShow formerly known as "RajjPatel" does shoey on the Official 2026 Runeft Livestream  https://www.twitch.tv/oldschoolrs/clip/EsteemedSlipperyAlmondNinjaGrumpy-Z8IhyOWyiNU5GK2f  2026/10/03    0.0000  NEGATIVE       POSITIVE
+4                                            Disaster rendition of Canada’s national anthem before their match                                                            https://v.redd.it/2k69nyl51bth1  2026/10/03   -0.6249  NEGATIVE       NEGATIVE
+5                       TAEMIN1998 gets attacked in Bangkok by a Thai man after an argument with a taxi driver                                                            https://v.redd.it/uho1p4kfaath1  2026/10/03   -0.6705  NEGATIVE       NEGATIVE
+6                                                                       Gappy tries being a driving instructor                                                            https://v.redd.it/e36gy1rnq9th1  2026/10/03    0.0000  NEGATIVE       NEGATIVE
+7                                                 German streamer Benjamool pelted with rocks by kids in Cairo                                                            https://v.redd.it/ygeoftljb9th1  2026/10/03    0.0000  NEGATIVE       NEGATIVE
+8                                                   Flosk89 - Climbing Lion in Odense Zoo during training time           https://www.twitch.tv/flosk89/clip/FaintAlluringCucumberHeyGuys-TZX6TcZzBkJLxQp8  2026/10/03    0.0000  NEGATIVE       NEGATIVE
+9      Reggie admitted he accused Kai of being a PDF was to scare Kai Cenat off the internet just to be on top                                                            https://v.redd.it/et3atk6yg8th1  2026/10/03   -0.4939  NEGATIVE       NEGATIVE
+10                                                       OHSmon ignoring a tornado siren(?) during Stardew Val                   https://www.twitch.tv/ohsmon/clip/BelovedSpookyLegDxCat-6AZMdtKNLjr70ZrS  2026/10/03   -0.4019  NEGATIVE       NEGATIVE
+11                                                 MoonMoon dies his final death in hardcore Valheim (for now)        https://www.twitch.tv/moonmoon/clip/AltruisticScaryWolfSuperVinlin-3EiaE0DBVBEFvevW  2026/10/03   -0.5994  NEGATIVE       NEGATIVE
+12                                      Streamer game starts failing each time his girlfriend opens the fridge                                                            https://v.redd.it/n3bd0ygdc6th1  2026/10/03   -0.5106  NEGATIVE       NEGATIVE
+13                         NoPixel Casino Owner Burn checks on AnthonyZ after he loses a lot of money gambling          https://www.twitch.tv/burn/clip/BraveBillowingChinchillaPlanking-9qcmdSBUceAzZQw_  2026/10/03   -0.3182  NEGATIVE       NEGATIVE
+14  Old lady questions Sincio's HitchHiking stream, clearly trying to snark him, then he instantly gets a ride      https://www.twitch.tv/sincio/clip/TransparentHappyWeaselDeIlluminati-mN2FGsaXzzzxiLAh  2026/10/03    0.4019  POSITIVE       POSITIVE
+15                                                                               TwitchRivals - abe is a fence     https://www.twitch.tv/twitchrivals/clip/ImportantObliquePigBibleThump-W6eLXeMpo9Wifa2u  2026/10/03    0.0000  NEGATIVE       NEGATIVE
+16                               Pikaboo gets directly called out (2 hours stream started and no gameplay yet)                                                            https://v.redd.it/5rcgovk5b5th1  2026/10/03   -0.2960  NEGATIVE       NEGATIVE
+17                                                                 Absolute Chaos Mosh pit in The Pixel Casino         https://www.twitch.tv/xqc/clip/AdorableElatedLemurNerfBlueBlaster-xxrlz884pdLB2Ijs  2026/10/03   -0.5719  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    14
-POSITIVE     4
+NEGATIVE    17
+POSITIVE     1
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    11
-POSITIVE     7
+NEGATIVE    14
+POSITIVE     4
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
