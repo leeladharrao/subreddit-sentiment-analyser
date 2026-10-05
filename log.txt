@@ -1,35 +1,39 @@
 <!-- posts starts -->
-                                                                                                         title                                                                                        url        date  compound   SA_nltk SA_distilibert
-0         Madi2Hotty is facing CRIMINAL CHARGES after getting into a fight with another streamer at Complexcon                                                            https://v.redd.it/nun4qqkj9cth1  2026/10/03   -0.8613  NEGATIVE       NEGATIVE
-1                                                                           streamer recites poem off the dome                                                            https://v.redd.it/3pa3l6fv3cth1  2026/10/03    0.0000  NEGATIVE       POSITIVE
-2                            RuneScape/ Jagex announce at RuneFest 2026 that "RuneScape 4" is in Development..                                                            https://v.redd.it/yrwidzfl3cth1  2026/10/03    0.0000  NEGATIVE       POSITIVE
-3                TheAustinShow formerly known as "RajjPatel" does shoey on the Official 2026 Runeft Livestream  https://www.twitch.tv/oldschoolrs/clip/EsteemedSlipperyAlmondNinjaGrumpy-Z8IhyOWyiNU5GK2f  2026/10/03    0.0000  NEGATIVE       POSITIVE
-4                                            Disaster rendition of Canada’s national anthem before their match                                                            https://v.redd.it/2k69nyl51bth1  2026/10/03   -0.6249  NEGATIVE       NEGATIVE
-5                       TAEMIN1998 gets attacked in Bangkok by a Thai man after an argument with a taxi driver                                                            https://v.redd.it/uho1p4kfaath1  2026/10/03   -0.6705  NEGATIVE       NEGATIVE
-6                                                                       Gappy tries being a driving instructor                                                            https://v.redd.it/e36gy1rnq9th1  2026/10/03    0.0000  NEGATIVE       NEGATIVE
-7                                                 German streamer Benjamool pelted with rocks by kids in Cairo                                                            https://v.redd.it/ygeoftljb9th1  2026/10/03    0.0000  NEGATIVE       NEGATIVE
-8                                                   Flosk89 - Climbing Lion in Odense Zoo during training time           https://www.twitch.tv/flosk89/clip/FaintAlluringCucumberHeyGuys-TZX6TcZzBkJLxQp8  2026/10/03    0.0000  NEGATIVE       NEGATIVE
-9      Reggie admitted he accused Kai of being a PDF was to scare Kai Cenat off the internet just to be on top                                                            https://v.redd.it/et3atk6yg8th1  2026/10/03   -0.4939  NEGATIVE       NEGATIVE
-10                                                       OHSmon ignoring a tornado siren(?) during Stardew Val                   https://www.twitch.tv/ohsmon/clip/BelovedSpookyLegDxCat-6AZMdtKNLjr70ZrS  2026/10/03   -0.4019  NEGATIVE       NEGATIVE
-11                                                 MoonMoon dies his final death in hardcore Valheim (for now)        https://www.twitch.tv/moonmoon/clip/AltruisticScaryWolfSuperVinlin-3EiaE0DBVBEFvevW  2026/10/03   -0.5994  NEGATIVE       NEGATIVE
-12                                      Streamer game starts failing each time his girlfriend opens the fridge                                                            https://v.redd.it/n3bd0ygdc6th1  2026/10/03   -0.5106  NEGATIVE       NEGATIVE
-13                         NoPixel Casino Owner Burn checks on AnthonyZ after he loses a lot of money gambling          https://www.twitch.tv/burn/clip/BraveBillowingChinchillaPlanking-9qcmdSBUceAzZQw_  2026/10/03   -0.3182  NEGATIVE       NEGATIVE
-14  Old lady questions Sincio's HitchHiking stream, clearly trying to snark him, then he instantly gets a ride      https://www.twitch.tv/sincio/clip/TransparentHappyWeaselDeIlluminati-mN2FGsaXzzzxiLAh  2026/10/03    0.4019  POSITIVE       POSITIVE
-15                                                                               TwitchRivals - abe is a fence     https://www.twitch.tv/twitchrivals/clip/ImportantObliquePigBibleThump-W6eLXeMpo9Wifa2u  2026/10/03    0.0000  NEGATIVE       NEGATIVE
-16                               Pikaboo gets directly called out (2 hours stream started and no gameplay yet)                                                            https://v.redd.it/5rcgovk5b5th1  2026/10/03   -0.2960  NEGATIVE       NEGATIVE
-17                                                                 Absolute Chaos Mosh pit in The Pixel Casino         https://www.twitch.tv/xqc/clip/AdorableElatedLemurNerfBlueBlaster-xxrlz884pdLB2Ijs  2026/10/03   -0.5719  NEGATIVE       NEGATIVE
+                                                                                                      title                                                                                     url        date  compound   SA_nltk SA_distilibert
+0                                          Jerma's new insufferable character gets everyone in the bathroom           https://www.twitch.tv/jerma985/clip/WittySparklyAlmondM4xHeh-xVvybo35l1j6QnEY  2026/10/04    0.0000  NEGATIVE       NEGATIVE
+1                                                                      Alinity wants to show chat something                                                         https://v.redd.it/k7deuikyyith1  2026/10/04    0.0000  NEGATIVE       POSITIVE
+2                                                                    ohnepixel rips it on stream once again            https://www.twitch.tv/ohnepixel/clip/CalmBlindingPonyFunRun-W-6RXHbDL2gD4H-0  2026/10/04    0.0000  NEGATIVE       NEGATIVE
+3   Notorious scammer Logan Paul gets a taste of his own medicine after losing $250K to an investment fraud                                                         https://v.redd.it/2qfp09y1nith1  2026/10/04   -0.8519  NEGATIVE       NEGATIVE
+4                                                               Peter takes a stance on some healthy racism     https://www.twitch.tv/peter/clip/DifficultGorgeousGalagoBigBrother-avNJlosFOhB2VjRo  2026/10/04   -0.3400  NEGATIVE       POSITIVE
+5                                                                                             New Payo Tech               https://www.twitch.tv/payo/clip/NaiveFreezingSharkFunRun-hW_OpCV7ssl3vHQe  2026/10/04    0.0000  NEGATIVE       POSITIVE
+6                                     Waymo and Austin PD handle a swatting incident on Nick White’s stream                                                         https://v.redd.it/l1deikfr2ith1  2026/10/04    0.0000  NEGATIVE       NEGATIVE
+7                                              Runabyt3's solution to not wanting to change Twitch category                                                         https://v.redd.it/z8v2vfl8bhth1  2026/10/04    0.3182  POSITIVE       NEGATIVE
+8                                                    Jagex using AI for RS3  Dragon Slayer 2 reveal trailer                                                         https://v.redd.it/inzr9mexegth1  2026/10/04    0.0000  NEGATIVE       NEGATIVE
+9               OceanAdventures gets banned on Kick for sparta kicking a drunk woman that slapped his phone                                                         https://v.redd.it/ymulohkb5gth1  2026/10/04   -0.6597  NEGATIVE       NEGATIVE
+10                        Kick Creator Slapped by Indians After 20 Minutes of Racially Motivated Harassment                                                         https://v.redd.it/ic60b8dzvfth1  2026/10/04   -0.1280  NEGATIVE       NEGATIVE
+11                                                              Speed educates the next generation. W SPEED                                                         https://v.redd.it/urnhyvxeqfth1  2026/10/04    0.0000  NEGATIVE       POSITIVE
+12                                                                      Ishowspeed stream sniped by a child                                                         https://v.redd.it/gag4qtqdmfth1  2026/10/04    0.0000  NEGATIVE       NEGATIVE
+13                                                   Rare hobo sighted at Cyprus ComicCon Tekken tournament                                                         https://v.redd.it/439bcvlecfth1  2026/10/04    0.0000  NEGATIVE       NEGATIVE
+14                                       Forsen joined Comic Con 2026 Tekken Tournament and lost at round 1                                                         https://v.redd.it/zthtprnfcfth1  2026/10/04   -0.3182  NEGATIVE       NEGATIVE
+15                                                                                     mindy at sawcon 2026              https://www.twitch.tv/mindy66/clip/GiantRefinedYakPrimeMe-raMq8WNkqoNgL6tG  2026/10/04    0.0000  NEGATIVE       POSITIVE
+16                                                         David Mauricio plays the Hasan Piker trivia game                                                         https://v.redd.it/2zektp933fth1  2026/10/04    0.2500  POSITIVE       POSITIVE
+17                                                                                 Sunglitters: classic WOW                                                         https://v.redd.it/h5x95612xeth1  2026/10/04    0.6739  POSITIVE       POSITIVE
+18           Marlon reaches the top of Mount Kilimanjaro, Africa’s tallest mountain, after his 5 day climb.                                                         https://v.redd.it/bvh4g6ty9dth1  2026/10/04    0.2500  POSITIVE       POSITIVE
+19                            Malena (NMPlol ex wife) will be going live on Twitch soon to tell her story..                                                         https://v.redd.it/8qqpidssxcth1  2026/10/04    0.0000  NEGATIVE       NEGATIVE
+20                                                                Porsche Hypercar crashes at Petit Le Mans  https://www.twitch.tv/porsche/clip/CarelessTrappedPartridgeKappaPride-NxE1SdSZ0ThoAhEy  2026/10/04    0.0000  NEGATIVE       NEGATIVE
+21                                        Quantum feeds in his ranked game and gets rewarded with double LP          https://www.twitch.tv/quantum/clip/SmoothBlatantPandaTinyFace-wq9wd1Hws1IAdYzf  2026/10/04    0.4939  POSITIVE       POSITIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
 NEGATIVE    17
-POSITIVE     1
+POSITIVE     5
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    14
-POSITIVE     4
+NEGATIVE    13
+POSITIVE     9
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
