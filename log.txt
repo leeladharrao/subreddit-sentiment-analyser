@@ -1,37 +1,30 @@
 <!-- posts starts -->
-                                                                                                                                                                title                                                                                        url        date  compound   SA_nltk SA_distilibert
-0                                                                                                              Burn's camera malfunctioned while interviewing someone               https://www.twitch.tv/burn/clip/DaintyJoyousTapirKappaPride-obLC2yy5TAMP8UNi  2026/10/06    0.0000  NEGATIVE       NEGATIVE
-1                                                                                      Asmongold says he stands by reasons he got banned like children should be sh0t                                                            https://v.redd.it/bv9x178s2xth1  2026/10/06   -0.1280  NEGATIVE       POSITIVE
-2   Mouton worries that DGG is getting too brazen in their women hate. "I know Steve's on his arc and he has a feeling against women because he's being sued by one".                                                            https://v.redd.it/fpqeulilqwth1  2026/10/06   -0.7184  NEGATIVE       NEGATIVE
-3                                                                                                                   IShowSpeed falls for the oldest trick in the book       https://www.twitch.tv/ishowspeed/clip/SucculentShinyChickpeaWutFace-Fz1WkWydZ5jnqsow  2026/10/06   -0.0516  NEGATIVE       NEGATIVE
-4                                                                                                                                                    Too much protein  https://www.twitch.tv/lillienue/clip/EphemeralWildHedgehogNerfRedBlaster-AxGTIII3hRsT_wOd  2026/10/06    0.0000  NEGATIVE       NEGATIVE
-5                                                                                                                               How Tommy came up with his Son's name        https://www.twitch.tv/tommykaylive/clip/FuriousDaintyDragonTakeNRG-IsvkQTF2WymX0Mg_  2026/10/06    0.0000  NEGATIVE       NEGATIVE
-6                                                                                                                                                  How does he do it?  https://www.twitch.tv/northernlion/clip/GracefulUnsightlySparrowBabyRage-hdFl4pEcE_YZKsiD  2026/10/06    0.0000  NEGATIVE       NEGATIVE
-7                                                                                       Kick Founder Announces Kick Has Reached 35% Market Share vs. Twitch This Year                                      https://x.com/BijanTehrani/status/2107511493994688528  2026/10/06    0.3818  POSITIVE       NEGATIVE
-8                                                 NZ army vet/ex-skydiver discovers cardinal directions and learns with the help of AI, that the sun sets in the west                                                            https://v.redd.it/g7jp7yrhlvth1  2026/10/06    0.4019  POSITIVE       POSITIVE
-9                                                                                                                                   Clarawrrxd on Male Contraceptives                                                            https://v.redd.it/qyq7mjpppvth1  2026/10/06    0.0000  NEGATIVE       NEGATIVE
-10                                                            Onlyusemeblade drives into objects, people and the wrong side of the road after getting litty off Jager                                                            https://v.redd.it/8uj88slmmvth1  2026/10/06   -0.4767  NEGATIVE       NEGATIVE
-11                                                   Andrew Tate Accused of Possessing Extreme Porn Depicting Sex With an Eel and Horse, Extradition Documents Reveal    https://www.ibtimes.co.uk/andrew-tate-additional-uk-charges-extreme-pornography-1824040  2026/10/06   -0.2960  NEGATIVE       NEGATIVE
-12                                                                                                                                              Sanest Artosis stream                                                            https://v.redd.it/g2bpa2thuuth1  2026/10/06    0.0000  NEGATIVE       POSITIVE
-13                                                                                                streamer took a week-long break from his pc and came back like this                                                            https://v.redd.it/v5lz4ug7euth1  2026/10/06    0.3612  POSITIVE       POSITIVE
-14                                                                                                                        Squeex attempts a daring escape from prison           https://www.twitch.tv/squeex/clip/GiantRockyNostrilPeoplesChamp-5PErlKbvC7C1b3sB  2026/10/06   -0.0258  NEGATIVE       POSITIVE
-15                                                                                                                                     ClaytonERP does not want to RP                                                            https://v.redd.it/w84l98zbttth1  2026/10/06   -0.0572  NEGATIVE       NEGATIVE
-16                                                                                       Erobb221 takes off his hat attempting to mog a kid, crashes out after losing          https://www.twitch.tv/erobb221/clip/MoistUnusualGoblinBigBrother-XjE3XRjx5EDCS1I2  2026/10/06   -0.3818  NEGATIVE       NEGATIVE
-17                                             Asmongold: "Kai Cenat should get a girlfriend that doesn't use the internet and only watches reruns of Grey's Anatomy"                           https://kick.com/asmongold/clips/clip_01M46RRF9TY4V40MHSG8XKEGC4  2026/10/06    0.0000  NEGATIVE       NEGATIVE
-18                                                                                                                                                  Mobile Unit (XQC)                                                            https://v.redd.it/sykrx80qpqth1  2026/10/06    0.0000  NEGATIVE       NEGATIVE
-19                                                                                                                              Fanfan can't handle Burn's deep voice           https://www.twitch.tv/fanfan/clip/PunchyAthleticCucumberTakeNRG-_5APFvMxpevpCWea  2026/10/06    0.0000  NEGATIVE       NEGATIVE
+                                                                                                                                                title                                                                                                  url        date  compound   SA_nltk SA_distilibert
+0            Nmp talks about him, Katchii, plus his mod Oro being fried from the drama and hints about future ''bullshit'' coming in the near future.  https://www.twitch.tv/nmplol2/clip/CooperativePrettiestWolverineChefFrank-J85NuI9TSbSOxHZC?range=7d  2026/10/07    0.0000  NEGATIVE       POSITIVE
+1                                                                                                When the commentators go full Harry Potter mid-round                                                                      https://v.redd.it/um39ej9t64uh1  2026/10/07    0.0000  NEGATIVE       POSITIVE
+2                                                                            Pilav on Snutz accepting 500 gold from trades and being a gamba streamer    https://www.twitch.tv/pilavpowa/clip/TubularDoubtfulHorseradishFrankerZ-t_NsuIu09WAZxCH6?range=7d  2026/10/07    0.3818  POSITIVE       NEGATIVE
+3                                                                                                                        ohnePixel tries GTAIV MC mod                 https://www.twitch.tv/ohnepixel/clip/EndearingWittyMeerkatChefFrank-7_5qi5_UQvubPFLJ  2026/10/07    0.0000  NEGATIVE       NEGATIVE
+4                                                                                                                               CS casters have jokes                    https://www.twitch.tv/eslcs/clip/ResourcefulGloriousKaleFrankerZ-4PkSgB6zJFa_Ypc_  2026/10/07    0.2500  POSITIVE       NEGATIVE
+5                                                                                           Soda: how to make gold in WOW (tips for summoning portal)                                                                      https://v.redd.it/oa8g7duxv2uh1  2026/10/07    0.6739  POSITIVE       POSITIVE
+6                                                                                                         Kaya meets Emma Vigeland for the first time                                                                      https://v.redd.it/8i4cjhwe42uh1  2026/10/07    0.0000  NEGATIVE       POSITIVE
+7                                                                             Adrien Broner Crashes out on Reggie(CloverBoy) After recent disrespect🫣                                                                      https://v.redd.it/xrkuptrcj1uh1  2026/10/07    0.0000  NEGATIVE       NEGATIVE
+8                                                                                                     Strong and Independent Woman Says Men Are Right            https://www.twitch.tv/maidenlessmelody/clip/WonderfulDullDumplingsNomNom-Recp-vN-nnX5UX28  2026/10/07    0.5106  POSITIVE       POSITIVE
+9                                                                            Partnered streamer JoshBelmar creates an immersive Spider-Man experience                   https://www.twitch.tv/joshbelmar/clip/DarlingBloodyArugulaSoBayed-dB0cB58B5w5PnJIf  2026/10/07    0.2732  POSITIVE       POSITIVE
+10  Ice Poseidon responds to Cheesur calling his event a stupid idea "That motherfucker doesn't leave his house, he doesn't know what a good idea is"                                   https://kick.com/iceposeidon/clips/clip_01M49ZMQS7KQGQ4X5DXQWCJXCM  2026/10/07   -0.8822  NEGATIVE       NEGATIVE
+11                                                                                                               Ms. Rachel's #1 fan goes to the hood                      https://www.twitch.tv/penta/clip/WildCrypticSeahorseSquadGoals-midmhEdNw5axAPK9  2026/10/07    0.3182  POSITIVE       POSITIVE
+12                                                                                                    Someone flashed a penis at IShowSpeed in VRChat              https://www.twitch.tv/ishowspeed/clip/CharmingEntertainingManateeDxCat-KqTAXHj-PqZj5hXu  2026/10/07    0.0000  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    17
-POSITIVE     3
+NEGATIVE    7
+POSITIVE    6
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    15
-POSITIVE     5
+POSITIVE    7
+NEGATIVE    6
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
