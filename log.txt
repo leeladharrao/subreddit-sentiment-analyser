@@ -1,40 +1,34 @@
 <!-- posts starts -->
-                                                                                                   title                                                                                          url        date  compound   SA_nltk SA_distilibert
-0                    Asmongold reacts to Steam hitting an all time high of 43.5 million concurrent users                             https://kick.com/asmongold/clips/clip_01M4P2RSBZXE541FD2W0D0SBV8  2026/10/12    0.0000  NEGATIVE       POSITIVE
-1                          Bhad Bhabie crashes out on SJC and LordHito for saying her famous catchphrase                                                              https://v.redd.it/nnbqyz2x83vh1  2026/10/12    0.0000  NEGATIVE       NEGATIVE
-2           xQc can't stop laughing at Kai Cenat struggling to read on Outlast "Jam A Man Of Fortune..."                                   https://kick.com/xqc/clips/clip_01M4S0KBFMAJBX8MS3TTH6F6G3  2026/10/12   -0.5484  NEGATIVE       NEGATIVE
-3                                                          Argument aggressively interrupted (Kkatamina)              https://www.twitch.tv/kkatamina/clip/OilyFragileGrouseTinyFace-TGGJTaS8zsChJ2v_  2026/10/12   -0.7184  NEGATIVE       NEGATIVE
-4                                                                                              Joe Shart      https://www.twitch.tv/joe_bartolozzi/clip/ElatedSullenCroissantHeyGirl-ipAsKN_aUVZTBwX0  2026/10/12    0.0000  NEGATIVE       POSITIVE
-5                                         STAR WARS: Galactic Racer makes Lirik's 15k computer shut down                                                              https://v.redd.it/5q5wreysc3vh1  2026/10/12   -0.6523  NEGATIVE       NEGATIVE
-6                                                  [Northernlion] Guy who powers up for the pearly gates      https://www.twitch.tv/northernlion/clip/SeductiveColdbloodedBunnyDoggo-nu_sEJVZ1lEN42KE  2026/10/12    0.0000  NEGATIVE       POSITIVE
-7                                                                                        Fearless Forsen                https://www.twitch.tv/forsen/clip/ConfidentSpineyOrcaHeyGirl-3bRGzUJSNyhBYaOM  2026/10/12    0.4404  POSITIVE       POSITIVE
-8                                                     Another nerdsen rant about the new Spiderman movie                                                              https://v.redd.it/gqllqylxz1vh1  2026/10/12   -0.3400  NEGATIVE       NEGATIVE
-9                                               BarbarousKing playing The Impossible Game like it's 2008      https://www.twitch.tv/barbarousking/clip/FunArtisticArmadilloSwiftRage-eMmbRxT14PIGRZLS  2026/10/12    0.5106  POSITIVE       NEGATIVE
-10                                                                             BonsaiBro Hasan'd his dog  https://www.twitch.tv/bonsaibroz/clip/TangentialExcitedPeppermintBuddhaBar-nUhnn8Kv_oioXsVU  2026/10/12    0.0000  NEGATIVE       NEGATIVE
-11                                       Chinese beggar is asking Water and Jake for money via a QR code        https://www.twitch.tv/waterlynn/clip/JoyousEnergeticPigeonKappaPride-H3km98vUK04YxXl3  2026/10/12    0.0000  NEGATIVE       NEGATIVE
-12                                                                                   Soft core on Twitch          https://www.twitch.tv/briiikayyy/clip/ColorfulTacitLasagnaTheTarFu-dTENbArjLy5FxNTb  2026/10/12    0.0000  NEGATIVE       NEGATIVE
-13  Mexican Andy gets called a creep for harassing a woman in Japan and Salmon Andy comes to his defense                                                              https://v.redd.it/ss5cgazq00vh1  2026/10/12   -0.4588  NEGATIVE       NEGATIVE
-14                                                                        It's stuck - innasolo - Twitch        https://www.twitch.tv/innasolo/clip/SmellyInspiringGarbageRaccAttack-5TGJoiFrLrwBCUuf  2026/10/12   -0.2500  NEGATIVE       NEGATIVE
-15                                                   Famous Live streamer The Fronk thought he was muted                                                              https://v.redd.it/oes3g48i0zuh1  2026/10/12    0.0000  NEGATIVE       NEGATIVE
-16                                          Mexican Andy talks to Gunsmxkee, the Kick streamer in prison                                                              https://v.redd.it/o67dpfamtyuh1  2026/10/12   -0.5106  NEGATIVE       NEGATIVE
-17                                                              Bogg gets health advice [NoPixel GTA RP]              https://www.twitch.tv/pokelawls/clip/CalmHyperCrabRiPepperonis-kdL-juf1K6cL0w7p  2026/10/12    0.0000  NEGATIVE       NEGATIVE
-18                                                                             Robcdee - Worlds Smallest        https://www.twitch.tv/robcdee/clip/CrispySlickPepperoniChocolateRain-Bn67VSb4dUayZYMV  2026/10/12    0.0000  NEGATIVE       NEGATIVE
-19                                 Mitch Jones keeps it real with NMP about streaming on his alt channel             https://www.twitch.tv/nmplol/clip/MoistFreezingLarkDeIlluminati-7pcrtr61QyduR6XZ  2026/10/12    0.0000  NEGATIVE       POSITIVE
-20                                                    Burn plays Chris Handsome in GTA RP to Catch Weebs                     https://www.twitch.tv/burn/clip/ObliqueBusyElkAsianGlow-UkZC9G-OljHAcHIn  2026/10/12    0.6369  POSITIVE       POSITIVE
-21                                                                  Cyr helps his friend deal with an ex              https://www.twitch.tv/cyr/clip/DiligentSolidJackalStinkyCheese-eHmNWrhlB1qsgMrb  2026/10/12    0.7003  POSITIVE       POSITIVE
-22                                                                                    Ronnie seems tense                                                              https://v.redd.it/2v6lx7jp2vuh1  2026/10/12   -0.3400  NEGATIVE       NEGATIVE
+                                                                                                                           title                                                                                          url        date  compound   SA_nltk SA_distilibert
+0                                                                                                      Joe plays fetch with Chop                                                              https://v.redd.it/mgziu02w5bvh1  2026/10/13    0.2500  POSITIVE       NEGATIVE
+1                                         xQc reacts to the SJC Bhad Babie confrontanion "Actual mega ragebait, he is not wrong"                                   https://kick.com/xqc/clips/clip_01M4RV7C1194AFYE5KSR4WT8ZH  2026/10/13    0.3724  POSITIVE       POSITIVE
+2                                                              Nymn remembers his experience working in a Blizzard Entertainment                                                              https://v.redd.it/ddyfjmxlfavh1  2026/10/13    0.4215  POSITIVE       POSITIVE
+3                                                                                                              Aris is searching       https://www.twitch.tv/avoidingthepuddle/clip/PerfectDeadDolphinWTRuck-0Aa8oyGn9eH3lspC  2026/10/13    0.0000  NEGATIVE       POSITIVE
+4                                                                                          CS2 pro Ropz tries to play Deathmatch                                                              https://v.redd.it/tfb01zw2aavh1  2026/10/13    0.3400  POSITIVE       NEGATIVE
+5                                                                                             NO NO NO NO NO - delanie on Twitch             https://www.twitch.tv/delanie/clip/ModernAlertAnacondaBuddhaBar-k_1YE067CwaV2L4S  2026/10/13   -0.9282  NEGATIVE       NEGATIVE
+6                                                                                                    Blu goes to answer the door                                                              https://v.redd.it/jsa0jbty7avh1  2026/10/13    0.0000  NEGATIVE       POSITIVE
+7                                                                                Chatter confesses about Crossdressing to Forsen                https://www.twitch.tv/forsen/clip/BrightAbstruseEyeballDoggo-3oCfiFrzV7bUMnyw  2026/10/13    0.0000  NEGATIVE       NEGATIVE
+8                                                                                      "I like drinking and doing PVP" *Side-eye       https://www.twitch.tv/veesylva/clip/ObeseRespectfulRutabagaBigBrother-xzD7IiapZbk9hkyY  2026/10/13    0.3612  POSITIVE       POSITIVE
+9                                                                        Streamer 1v5 Clutches while pretending to be an AI BOT.                                                              https://v.redd.it/ey7vvcvo49vh1  2026/10/13    0.1027  NEGATIVE       NEGATIVE
+10                                                                                         NymN shares a piece of Twitch history                                                              https://v.redd.it/15z1kuxnz8vh1  2026/10/13    0.2960  POSITIVE       POSITIVE
+11                                                                                                              AvoidingTheGreen  https://www.twitch.tv/avoidingthepuddle/clip/CleverSmokyPancakeTBTacoRight-oJ_ijgJqBckmNPSM  2026/10/13    0.0000  NEGATIVE       NEGATIVE
+12                                                                                    type of greed they talk about in the bible           https://www.twitch.tv/xqc/clip/ObliviousSeductivePuddingAMPEnergy-b4bTnMBxf2eQoi93  2026/10/13   -0.4019  NEGATIVE       NEGATIVE
+13                                                 Kick streamer Jay Cartwright harasses public and vandalizes local businesses.                                                              https://v.redd.it/ba3l5c4ze6vh1  2026/10/13   -0.5423  NEGATIVE       NEGATIVE
+14                                                                                                       Super's little pogchamp                                                              https://v.redd.it/0lfvreqj86vh1  2026/10/13    0.0000  NEGATIVE       POSITIVE
+15  PikabooIRL pulls out mid sponsor with Tradeify promoting a Premier Trade League tournament. Ends stream and deletes the VOD.                                                              https://v.redd.it/sx24r7j4s4vh1  2026/10/13    0.3612  POSITIVE       NEGATIVE
+16                                                                                               Hasan loves to slut himself out                                                              https://v.redd.it/a2dnb6nim4vh1  2026/10/13   -0.0258  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    19
-POSITIVE     4
+NEGATIVE    10
+POSITIVE     7
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    16
+NEGATIVE    10
 POSITIVE     7
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
