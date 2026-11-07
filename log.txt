@@ -1,46 +1,46 @@
 <!-- posts starts -->
-                                                                                                     title                                                                                           url        date  compound   SA_nltk SA_distilibert
-0                                                                      Atrioc leaks Aiden's vacation photo                                                               https://v.redd.it/7z1ccaw6tvzh1  2026/11/05    0.0000  NEGATIVE       NEGATIVE
-1                                                                                 Tyler1 gives up and ults                 https://www.twitch.tv/loltyler1/clip/DarlingLongCocoaHeyGuys-N33un8YibnGN7CDV  2026/11/05    0.0000  NEGATIVE       NEGATIVE
-2                                                                   Glimps of a stroke - quralia on Twitch            https://www.twitch.tv/quralia/clip/KnottyDarlingAmazonHoneyBadger-DL_UdrdBCT1vL4bG  2026/11/05    0.0000  NEGATIVE       NEGATIVE
-3                                                                                  DBJ learns color theory          https://www.twitch.tv/deadblossomjesse/clip/CaringBrainyPigeonDoggo-OttFaCaAJql5dVAn  2026/11/05    0.0000  NEGATIVE       POSITIVE
-4                                                                         Tyler1 tries negotiating with AI                                                               https://v.redd.it/c3mdcs3zevzh1  2026/11/05    0.0000  NEGATIVE       NEGATIVE
-5                                                                                    Pikaboo on gf larping                https://www.twitch.tv/pikabooirl/clip/RoughAttractiveTofuUWot-s7GBMDuiAJMjZeo1  2026/11/05    0.0000  NEGATIVE       NEGATIVE
-6                                                                 Asmongold criticises G2 for firing Perkz                                                               https://v.redd.it/w6wbgpoituzh1  2026/11/05   -0.5719  NEGATIVE       NEGATIVE
-7                                                     Atrioc reacting to Trump's Midterm concession speech                                                               https://v.redd.it/e524xungpuzh1  2026/11/05    0.0000  NEGATIVE       NEGATIVE
-8                                                                            Asmongold talking about Sjokz                                                               https://v.redd.it/e8x8jrhsmuzh1  2026/11/05    0.0000  NEGATIVE       POSITIVE
-9                                                                          Vinesauce tries the new Ocarina   https://www.twitch.tv/vinesauce/clip/AntediluvianSleepyShingleCoolStoryBob-zDzkmUP-QVh352BG  2026/11/05    0.0000  NEGATIVE       POSITIVE
-10                                                                  Pikaboo gets compared to a CS2 chicken                                                               https://v.redd.it/uef7g8ttauzh1  2026/11/05    0.0000  NEGATIVE       NEGATIVE
-11                                      IRL Streamer Completely Crashes Out After His Friend Loses His Mic                                                               https://v.redd.it/l7izo05w9uzh1  2026/11/05    0.2263  POSITIVE       NEGATIVE
-12  LonerBox responds to Mike from PA Jokes That He Would Be the Only Member of a Hasan Piker Suicide Cult                                                               https://v.redd.it/mkwro8yzutzh1  2026/11/05   -0.5423  NEGATIVE       NEGATIVE
-13      Nizzy Says Small Creators Are DELUSIONAL If They Think GTA 6 Lets Play Will Make Them Millionaires                                                               https://v.redd.it/taypr1c9utzh1  2026/11/05    0.3400  POSITIVE       NEGATIVE
-14                                                          Forsen makes an astute masterclass observation                                                               https://v.redd.it/8996dxwirtzh1  2026/11/05    0.0000  NEGATIVE       POSITIVE
-15                     Asmongold on why the GOP lost the midterms, and Trumps usefulness coming to an end.                                                               https://v.redd.it/rqhw1kitqtzh1  2026/11/05   -0.0258  NEGATIVE       POSITIVE
-16                                                                                         Aris's Avengers  https://www.twitch.tv/avoidingthepuddle/clip/VictoriousShinyAlmondSmoocherZ-OtN1E_0g-6bzacaW  2026/11/05    0.0000  NEGATIVE       POSITIVE
-17                                                                          Giselle is not the best Wukong      https://www.twitch.tv/geezgiselle/clip/HungryPerfectPlumageCharlieBitMe-Sn2HHpyvE9Jtt36h  2026/11/05   -0.5216  NEGATIVE       NEGATIVE
-18                                                           Streamer checks into wrong Uber ride in India                                                               https://v.redd.it/54jggtmh7tzh1  2026/11/05   -0.4767  NEGATIVE       NEGATIVE
-19                                                      PRSEK complains about Digital Ground Game grifters                                                               https://v.redd.it/ppwtaxub3tzh1  2026/11/05   -0.3818  NEGATIVE       NEGATIVE
-20                                                                      Hachubby was diagnosed with cancer                                                               https://v.redd.it/u7zj8l2mhrzh1  2026/11/05   -0.6597  NEGATIVE       NEGATIVE
-21                                                      Moonmoon receives guild name suggestions from chat          https://www.twitch.tv/moonmoon/clip/TangibleVictoriousAxeBigBrother-jyxeeu02eR1vkm5k  2026/11/05    0.0000  NEGATIVE       NEGATIVE
-22                Destiny makes a tweet laying out all his claims about Hasan, directly asking to be sued.                                                               https://v.redd.it/eptb8zglqpzh1  2026/11/05    0.0000  NEGATIVE       NEGATIVE
-23                                            Streamer goes camping, leaves poop out for everyone to enjoy               https://www.twitch.tv/uwoslab/clip/BusyBoringManateeYouDontSay-Us6H-boGHny1Zz4s  2026/11/05    0.4939  POSITIVE       POSITIVE
-24                                               AdrianahLee reveals the most wholesome streamer community                            https://kick.com/adrianahlee/clips/clip_01M6MP7YWSFS3CK6CT3M08J4NG  2026/11/05    0.0000  NEGATIVE       POSITIVE
-25                                                            Soda has a sober realization about his title                                                               https://v.redd.it/yu7reynfhpzh1  2026/11/05    0.0000  NEGATIVE       NEGATIVE
-26                                                                   emiru breaks her sylvanas wow cosplay                                                               https://v.redd.it/2supjtwz6pzh1  2026/11/05    0.5859  POSITIVE       NEGATIVE
-27                                          Streamers when they haven't received any 100 gifted all stream                                                               https://v.redd.it/xzaqgh843pzh1  2026/11/05    0.0000  NEGATIVE       NEGATIVE
-28                                                                              Going 75+ In Blinding Rain               https://www.twitch.tv/hitch/clip/BetterKathishWerewolfTheThing-mJ4UiyIPzLQQ097-  2026/11/05    0.0000  NEGATIVE       POSITIVE
+                                                                                                                         title                                                                                                    url        date  compound   SA_nltk SA_distilibert
+0                                                                Ludwig scores a triple kill with his horse and clutches a win                       https://www.twitch.tv/ludwig/clip/PrettyBrightTermiteRaccAttack-z9jLxi9LZxPUCtTV  2026/11/06   -0.2263  NEGATIVE       POSITIVE
+1                                                     JokerdTV says he wont be a degen anymore after hitting 60 in Wow Forever               https://www.twitch.tv/jokerdtv/clip/WealthyOutstandingJackalArsonNoSexy-Hcrz3d7LPOQndB_W  2026/11/06    0.5859  POSITIVE       NEGATIVE
+2                                                                  BlackAssDave says Jesus Christ was Black! These women agree                                                                        https://v.redd.it/udf9ko4z020i1  2026/11/06    0.4199  POSITIVE       POSITIVE
+3                                                                                   Sodapoppin on living in a gated community.                    https://www.twitch.tv/sodapoppin/clip/CreativeFragileMonitorBCouch-XgmpP665JbBV-MRb  2026/11/06    0.0000  NEGATIVE       POSITIVE
+4                                                                                                 sips_ is asked for some PILK                         https://www.twitch.tv/sips_/clip/ColorfulHungryPancakeHeyGirl-1LG33lmwd_onSa1T  2026/11/06    0.0000  NEGATIVE       NEGATIVE
+5                                                                                                      CoconutB V Tuber Reveal                                        https://kick.com/coconutb/clips/clip_01M6S34CNSSGV773HQ5D2Z3WZ2  2026/11/06    0.0000  NEGATIVE       NEGATIVE
+6                                                                                        Soda about Jokerd lvl 60 first in WOW                                                                        https://v.redd.it/lgtwypoqb10i1  2026/11/06    0.6739  POSITIVE       POSITIVE
+7                                            LonerBox Responds to Destiny Sharing Private, Intimate Content During an Argument                                                                        https://v.redd.it/quvspg0i910i1  2026/11/06    0.0772  NEGATIVE       POSITIVE
+8                                                                                  Hasanabi featured in Japan's news broadcast                                                                        https://v.redd.it/iiilvv4g810i1  2026/11/06    0.0000  NEGATIVE       POSITIVE
+9              Hasan blasts Talarico for "annoying a** centrist pivot," calling him "absolutely f**king compromised" on Israel                                                                        https://v.redd.it/81mritm6x00i1  2026/11/06   -0.4019  NEGATIVE       NEGATIVE
+10                                                                                                  Forsen tries to PVP in wow                  https://www.twitch.tv/forsen/clip/OutstandingTemperedLocustBrainSlug-jVT4dVuEdPX-HLIY  2026/11/06    0.5859  POSITIVE       NEGATIVE
+11                  Adin Ross goes woke "Everyone's the same bro.. we're all the same, it's 2026 bro.. we're all human beings"                                        https://kick.com/adinross/clips/clip_01M6RQQ0VZGQDRP7B2PQSWJHCS  2026/11/06    0.0000  NEGATIVE       POSITIVE
+12                                                  Forsen mentally prepares himself for another World of Warcraft playthrough                                                                        https://v.redd.it/ix8cymn1p00i1  2026/11/06    0.0000  NEGATIVE       POSITIVE
+13                                                                                                            Insatiable Greed                                                                        https://v.redd.it/r855b702jxzh1  2026/11/06   -0.4019  NEGATIVE       NEGATIVE
+14                                                                               dkaytoolittle finally gets his Ws in the chat                                                                        https://v.redd.it/ep5lzpnli00i1  2026/11/06    0.0000  NEGATIVE       POSITIVE
+15                                                                               Asmon on Hasan supposedly being paid by China                                                                        https://v.redd.it/ck6988hx700i1  2026/11/06    0.0000  NEGATIVE       NEGATIVE
+16  Destiny on what he wishes an elected official would do “We have to feel like we’re winning when our companies are winning"                                         https://kick.com/destiny/clips/clip_01M6Q6XP1RHYJH1BY634P6KSBD  2026/11/06    0.8720  POSITIVE       POSITIVE
+17                                                                               DSP holds the stream hostage over low support                                                                        https://v.redd.it/e45pul8uzzzh1  2026/11/06    0.1531  NEGATIVE       NEGATIVE
+18                                       Korean News showed video of Trump being choke slammed by Iran Supreme Leader Khamenei                                                                        https://v.redd.it/kuibr8dtwyzh1  2026/11/06    0.0258  NEGATIVE       NEGATIVE
+19                                                                   WhickTV goes on OAN to complain about the DSA (and Hasan)                                                                        https://v.redd.it/sy39sb1dtyzh1  2026/11/06   -0.3612  NEGATIVE       NEGATIVE
+20                                                                             Found Shiny Sandshrew | DexNav | 865 Encounters  https://www.twitch.tv/notspielo/clip/UninterestedInventiveTroutPeanutButterJellyTime-prcRGY74vq_5ZQdF  2026/11/06    0.0000  NEGATIVE       NEGATIVE
+21                                                                                      xQc using a BB gun to fight the police                       https://www.twitch.tv/xqc/clip/HardEvilPuddingCharlietheUnicorn-o2AxD-9bQVeyvSbu  2026/11/06   -0.6124  NEGATIVE       NEGATIVE
+22                                                                                                Kai descends into madness #1                      https://www.twitch.tv/kaicenat/clip/PatientCrypticLatteSeemsGood-56z-7OQAU_l_ogAZ  2026/11/06   -0.4404  NEGATIVE       NEGATIVE
+23                                                                                  Kai GTA 3 crashout #3 - KaiCenat on Twitch                    https://www.twitch.tv/kaicenat/clip/DifficultHonestScallionWutFace-6BElZz4nr5WHC9Jw  2026/11/06    0.0000  NEGATIVE       NEGATIVE
+24                                       xQc's calls out Hasan for piggybacking on the Democratic Party's successful blue wave                                                                        https://v.redd.it/iikcsskvjxzh1  2026/11/06    0.5859  POSITIVE       NEGATIVE
+25                                                                                                               GTA broke Kai                               https://www.twitch.tv/kaicenat/clip/SmoothAstuteBearWow-B2HPApzPMQLrZHGr  2026/11/06   -0.4215  NEGATIVE       POSITIVE
+26                                                                     Ex-Proud Boy crashes out on Tim Pool’s election podcast                                                                        https://v.redd.it/kkhoao708xzh1  2026/11/06    0.0000  NEGATIVE       NEGATIVE
+27                                                                                                       Kai crashes out GTA 3                           https://www.twitch.tv/kaicenat/clip/HappyPatientCardPrimeMe-J-Qx6tocmjBMyXZy  2026/11/06    0.0000  NEGATIVE       NEGATIVE
+28                                                          (Generalist Gaming) Russia declares war on Ukraine claiming Crimea                                                                        https://v.redd.it/don9xr06vvzh1  2026/11/06   -0.5994  NEGATIVE       NEGATIVE
 <!-- posts ends -->
 
 <!-- SA_nltk starts -->
 SA_nltk
-NEGATIVE    25
-POSITIVE     4
+NEGATIVE    23
+POSITIVE     6
 Name: count, dtype: int64
 <!-- SA_nltk ends -->
 
 <!-- SA_distilibert starts -->
 SA_distilibert
-NEGATIVE    20
-POSITIVE     9
+NEGATIVE    18
+POSITIVE    11
 Name: count, dtype: int64
 <!-- SA_distilibert ends -->
